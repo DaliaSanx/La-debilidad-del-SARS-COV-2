@@ -58,9 +58,9 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 ## El Equipo, *Las CoronaAmigas*
 
 #### Dalia Sánchez
-    - Estudiante de la licenciatura en Medicina y Cirugía de la Universidad Autónoma Benito Juárez de Oaxaca
+   - Estudiante de la licenciatura en Medicina y Cirugía de la Universidad Autónoma Benito Juárez de Oaxaca
 #### Daysi Venancio
-    - Estudiante de la linceciatura en Quiímico Fármaco Biólogo de la Benemérita Universidad Autónoma de Puebla
+   - Estudiante de la linceciatura en Quiímico Fármaco Biólogo de la Benemérita Universidad Autónoma de Puebla
 #### Adamary 
 #### Lesslie
 
