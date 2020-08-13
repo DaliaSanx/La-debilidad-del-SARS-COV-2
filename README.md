@@ -17,8 +17,6 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 - El SARS-COV2 es un virus RNA monocatenario en sentido positivo, lo cual quiere decir que **puede ser traducido inmediatamente por la maquinaria de la célula hospedera.** Dentro de la clasificación de la familia *Coronaviridae*, pertenece al grupo *B*
 - El nombre del receptor de este virus en las células humanas es **ECA 2**, o en inglés **ACE 2**, se encuentra en:
 
----
-
     1. **Neumocitos tipo 2** o células epiteliales alveolares tipo 2, que se encuentran en los pulmones.
     2. Intestino delgado
     3. Endotelio
@@ -39,13 +37,13 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
    - Su característica es que es **poco procesiva**, significa que sola no es infectante, **necesita de dos proteínas no estructurales, (7 y 8)** para ser veloz y funcionar.
 
 ### **Proteínas estructurales**
-  1. Proteína ***Spike***
+  1. **Proteína** ***Spike***
+      - Su peso es de 180 kD.
       - Es importante profundizar en la descripción de esta proteína, ya que es el blanco principal de múltiples fármacos que se están desarrollando en diferentes partes del mundo, está conformada por:
       - 3 proteínas iguales, por lo tanto, estamos describiendo a un **homotrímero**
-      - Su peso es de 180 kD.
-      - Cada subunidad tiene 2 porciones distintas, **la subinidad 1 y la subunidad 2.**
-       - **Subunidad 1:** Su responsabilidad es **unirse al receptor ECA 2**.
-       - **Subunidad 2:** Está encargada de **penetrar en la célula hospedera**
+       - Cada subunidad tiene 2 porciones distintas, **la subinidad 1 y la subunidad 2.**
+        - **Subunidad 1:** Su responsabilidad es **unirse al receptor ECA 2**.
+        - **Subunidad 2:** Está encargada de **penetrar en la célula hospedera**
     Para que esta proteína funcione **necesita ser activada**, curiosamente, por la interacción con **¡Dos proteínas humanas!**
     El primer corte debe ser realizado por la **furina**
 
