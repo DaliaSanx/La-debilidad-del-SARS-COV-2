@@ -37,7 +37,7 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
    - Su característica es que es **poco procesiva**, significa que sola no es infectante, **necesita de dos proteínas no estructurales, (7 y 8)** para ser veloz y funcionar.
 
 ### <img src="https://cdn1.iconfinder.com/data/icons/health-fitness-3/24/muscles_gym_training_protein-512.png" alt="Protein struct" width="50"/> **Proteínas estructurales**
-  1. **Proteína** ***Spike*** <img src="https://image.flaticon.com/icons/png/512/2750/2750762.png" alt="SPIKE" width="50"/>
+  1. <img src="https://image.flaticon.com/icons/png/512/2750/2750762.png" alt="SPIKE" width="50"/> **Proteína** ***Spike***
       - Su peso es de 180 kD.
       - Es importante profundizar en la descripción de esta proteína, ya que es el blanco principal de múltiples fármacos que se están desarrollando en diferentes partes del mundo, está conformada por:
       - 3 proteínas iguales, por lo tanto, estamos describiendo a un **homotrímero**
