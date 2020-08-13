@@ -2,7 +2,7 @@
 
 ---
 
-## COVID-19, ¿Porqué es tan importante el tratamiento? <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/globe-512.png" alt="drawing" width="100"/>
+## COVID-19, ¿Porqué es tan importante el tratamiento? <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/globe-512.png" alt="drawing" width="50"/>
 
 - A finales del 2019 surgió en China un brote de SARS-COV-2. Dicho virus se asocia directamente a enfermedades de las vías respiratorias (principalmente).
 
@@ -12,7 +12,7 @@
 México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexicano publicó que hasta ese día habían 492,522 casos confirmados y 53,929 defunciones.**
 
 
-## El ciclo viral
+## El ciclo viral <img src="https://image.flaticon.com/icons/png/512/1756/1756507.png" alt="RNA" width="50"/>
 
 - El SARS-COV2 es un virus RNA monocatenario en sentido positivo, lo cual quiere decir que **puede ser traducido inmediatamente por la maquinaria de la célula hospedera.** Dentro de la clasificación de la familia *Coronaviridae*, pertenece al grupo *B*
 - El nombre del receptor de este virus en las células humanas es **ECA 2**, o en inglés **ACE 2**, se encuentra en:
@@ -22,7 +22,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
     3. Endotelio
 Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el ciclo de replicación de este virus.
 
-## Proteínas virales
+## Proteínas virales <img src="https://cdn.icon-icons.com/icons2/2239/PNG/512/virus_coronavirus_covid_covid_icon_134829.png" alt=VIRUS" width="50"/>
 
 - En total, el virus codifica para ::: proteínas, divididas en estructurales y no estructurales, es importante mencionar que **la variabilidad del virus radica en las proteínas estructurales, ya que son las menos conservadas**, significa que cuando varíen, es probable que un fármaco dirigido a ellas deje de ser efectivo. En este segmento, describiremos las proteínas más relevantes para el desarrollo de terapéuticos.
 
