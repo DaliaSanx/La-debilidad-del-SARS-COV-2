@@ -55,7 +55,16 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 
 ## Datos curiosos
 
-### El Equipo, *Las CoronaAmigas*
+## El Equipo, *Las CoronaAmigas*
+
+#### Dalia Sánchez
+    - Estudiante de la licenciatura en Medicina y Cirugía de la Universidad Autónoma Benito Juárez de Oaxaca
+#### Daysi Venancio
+    - Estudiante de la linceciatura en Quiímico Fármaco Biólogo de la Benemérita Universidad Autónoma de Puebla
+#### Adamary 
+#### Lesslie
+
+## Referencias
 
 [Link](url) and ![Image](src)
 ```
