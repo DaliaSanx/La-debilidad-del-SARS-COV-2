@@ -14,9 +14,9 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 - El SARS-COV2 es un virus RNA monocatenario en sentido positivo, lo cual quiere decir que **puede ser traducido inmediatamente por la maquinaria de la célula hospedera.** Dentro de la clasificación de la familia *Coronaviridae*, pertenece al grupo *B*
 - El nombre del receptor de este virus en las células humanas es **ECA 2**, o en inglés **ACE 2**, se encuentra en:
-      1. **Neumocitos tipo 2** o células epiteliales alveolares tipo 2, que se encuentran en los pulmones.
-      2. Intestino delgado
-      3. Endotelio
+    1. **Neumocitos tipo 2** o células epiteliales alveolares tipo 2, que se encuentran en los pulmones.
+    2. Intestino delgado
+    3. Endotelio
 Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el ciclo de replicación de este virus.
 
 ## Proteínas virales
