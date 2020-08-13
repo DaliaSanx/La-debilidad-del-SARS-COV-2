@@ -37,8 +37,8 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
       - 3 proteínas iguales, por lo tanto, estamos describiendo a un **homotrímero**
       - Su peso es de 180 kD.
       - Cada subunidad tiene 2 porciones distintas, **la subinidad 1 y la subunidad 2.**
-            - **Subunidad 1:** Su responsabilidad es **unirse al receptor ECA 2**.
-            - **Subunidad 2:** Está encargada de **penetrar en la célula hospedera**
+            -**Subunidad 1:** Su responsabilidad es **unirse al receptor ECA 2**.
+            -**Subunidad 2:** Está encargada de **penetrar en la célula hospedera**
     Para que esta proteína funcione **necesita ser activada**, curiosamente, por la interacción con **¡Dos proteínas humanas!**
     El primer corte debe ser realizado por la **furina**
 
