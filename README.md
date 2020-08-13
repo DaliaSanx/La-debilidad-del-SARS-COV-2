@@ -15,8 +15,8 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 - El SARS-COV2 es un virus RNA monocatenario en sentido positivo, lo cual quiere decir que **puede ser traducido inmediatamente por la maquinaria de la célula hospedera.** Dentro de la clasificación de la familia *Coronaviridae*, pertenece al grupo *B*
 - El nombre del receptor de este virus en las células humanas es **ECA 2**, o en inglés **ACE 2**, se encuentra en:
       - **Neumocitos tipo 2** o células epiteliales alveolares tipo 2, que se encuentran en los pulmones.
-       - Intestino delgado
-       - Endotelio
+      - Intestino delgado
+      - Endotelio
 Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el ciclo de replicación de este virus.
 
 ## Proteínas virales
@@ -31,6 +31,7 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
   3. **RNA polimerasa dependiente de RNA**
    - Es generada por un corte de la proteína principal. 
    - Su característica es que es **poco procesiva**, significa que sola no es infectante, **necesita de dos proteínas no estructurales, (7 y 8)** para ser veloz y funcionar.
+
 ### **Proteínas estructurales**
   1. Proteína ***Spike***
       - Es importante profundizar en la descripción de esta proteína, ya que es el blanco principal de múltiples fármacos que se están desarrollando en diferentes partes del mundo, está conformada por:
@@ -54,7 +55,7 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 
 ## Datos curiosos
 
-### Un poco sobre nosotras
+### El Equipo, *Las CoronaAmigas*
 
 [Link](url) and ![Image](src)
 ```
@@ -62,8 +63,6 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DaliaSanx/Rutas-Terap-uticas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
