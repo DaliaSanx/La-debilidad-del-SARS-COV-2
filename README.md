@@ -2,7 +2,7 @@
 
 ---
 
-## COVID-19, ¿Porqué es tan importante el tratamiento?
+## COVID-19, ¿Porqué es tan importante el tratamiento? ![World icon](https://image.flaticon.com/icons/png/512/183/183595.png)
 
 - A finales del 2019 surgió en China un brote de SARS-COV-2. Dicho virus se asocia directamente a enfermedades de las vías respiratorias (principalmente).
 
