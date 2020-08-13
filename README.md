@@ -12,7 +12,7 @@
 México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexicano publicó que hasta ese día habían 492,522 casos confirmados y 53,929 defunciones.**
 
 
-## El ciclo viral <img src="https://image.flaticon.com/icons/png/512/1756/1756507.png" alt="RNA" width="50"/>
+## <img src="https://image.flaticon.com/icons/png/512/1756/1756507.png" alt="RNA" width="50"/> El ciclo viral.
 
 - El SARS-COV2 es un virus RNA monocatenario en sentido positivo, lo cual quiere decir que **puede ser traducido inmediatamente por la maquinaria de la célula hospedera.** Dentro de la clasificación de la familia *Coronaviridae*, pertenece al grupo *B*
 - El nombre del receptor de este virus en las células humanas es **ECA 2**, o en inglés **ACE 2**, se encuentra en:
@@ -22,11 +22,11 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
     3. Endotelio
 Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el ciclo de replicación de este virus.
 
-## Proteínas virales <img src="https://cdn.icon-icons.com/icons2/2239/PNG/512/virus_coronavirus_covid_covid_icon_134829.png" alt="VIRUS" width="50"/>
+## <img src="https://cdn.icon-icons.com/icons2/2239/PNG/512/virus_coronavirus_covid_covid_icon_134829.png" alt="VIRUS" width="50"/> Proteínas virales.
 
 - En total, el virus codifica para ::: proteínas, divididas en estructurales y no estructurales, es importante mencionar que **la variabilidad del virus radica en las proteínas estructurales, ya que son las menos conservadas**, significa que cuando varíen, es probable que un fármaco dirigido a ellas deje de ser efectivo. En este segmento, describiremos las proteínas más relevantes para el desarrollo de terapéuticos.
 
-### **Proteínas no estructurales** <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/protein-17-554033.png" alt="Protein" width="50"/>
+### <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/protein-17-554033.png" alt="Protein" width="50"/> **Proteínas no estructurales**
   1. **Proteasa tipo papaína:** *Las tijeras moleculares*.
    - Sus cortes permiten liberar otras tres proteínas no estructurales que son necesarias para la replicación.
    - **Es responsable también de la supresión de la respuesta inmune humana**, mediante la intervención de una cascada de señales, inhibe la producción de citocinas e interferones, los cuales funcionan como mensajeros llamando a más células inflamatorias.
@@ -36,7 +36,7 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
    - Es generada por un corte de la proteína principal. 
    - Su característica es que es **poco procesiva**, significa que sola no es infectante, **necesita de dos proteínas no estructurales, (7 y 8)** para ser veloz y funcionar.
 
-### **Proteínas estructurales** <img src="https://cdn1.iconfinder.com/data/icons/health-fitness-3/24/muscles_gym_training_protein-512.png" alt="Protein struct" width="50"/>
+### <img src="https://cdn1.iconfinder.com/data/icons/health-fitness-3/24/muscles_gym_training_protein-512.png" alt="Protein struct" width="50"/> **Proteínas estructurales**
   1. **Proteína** ***Spike***
       - Su peso es de 180 kD.
       - Es importante profundizar en la descripción de esta proteína, ya que es el blanco principal de múltiples fármacos que se están desarrollando en diferentes partes del mundo, está conformada por:
