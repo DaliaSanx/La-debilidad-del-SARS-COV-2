@@ -22,6 +22,8 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
     3. Endotelio
 Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el ciclo de replicación de este virus.
 
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Ciclo%20viral.png?raw=true" alt="VIRAL CICLE" width="200"/>
+
 ## <img src="https://cdn.icon-icons.com/icons2/2239/PNG/512/virus_coronavirus_covid_covid_icon_134829.png" alt="VIRUS" width="50"/> Proteínas virales.
 
 - En total, el virus codifica para ::: proteínas, divididas en estructurales y no estructurales, es importante mencionar que **la variabilidad del virus radica en las proteínas estructurales, ya que son las menos conservadas**, significa que cuando varíen, es probable que un fármaco dirigido a ellas deje de ser efectivo. En este segmento, describiremos las proteínas más relevantes para el desarrollo de terapéuticos.
