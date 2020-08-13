@@ -22,7 +22,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
     3. Endotelio
 Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el ciclo de replicación de este virus.
 
-<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Ciclo%20viral.png?raw=true" alt="VIRAL CICLE" width="400"/>
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Ciclo%20viral.png?raw=true" alt="VIRAL CICLE" width="600"/>
 
 ## <img src="https://cdn.icon-icons.com/icons2/2239/PNG/512/virus_coronavirus_covid_covid_icon_134829.png" alt="VIRUS" width="50"/> Proteínas virales.
 
@@ -46,8 +46,10 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
        - Cada subunidad tiene 2 porciones distintas, **la subinidad 1 y la subunidad 2.**
         - **Subunidad 1:** Su responsabilidad es **unirse al receptor ECA 2**.
         - **Subunidad 2:** Está encargada de **penetrar en la célula hospedera**
-    Para que esta proteína funcione **necesita ser activada**, curiosamente, por la interacción con **¡Dos proteínas humanas!**
-    El primer corte debe ser realizado por la **furina**
+   <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE.jpg?raw=true" alt="SPIKE" width="600"/>     
+        
+   Para que esta proteína funcione **necesita ser activada**, curiosamente, por la interacción con **¡Dos proteínas humanas!**.
+   El primer corte debe ser realizado por la **furina**
 
 - ***Cada una de estas proteínas es como si fuera un hueso de nuestro esqueleto, tal vez no todos sean elementales, pero alterando el funcionamiento de al menos una, desestabilizaría al virus.***
 
