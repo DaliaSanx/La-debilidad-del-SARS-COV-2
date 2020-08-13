@@ -1,5 +1,7 @@
 # Proteínas Blanco, Rutas terapéuticas en el tratamiento de COVID-19
 
+---
+
 ## COVID-19, ¿Porqué es tan importante el tratamiento?
 
 - A finales del 2019 surgió en China un brote de SARS-COV-2. Dicho virus se asocia directamente a enfermedades de las vías respiratorias (principalmente).
@@ -14,6 +16,9 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 - El SARS-COV2 es un virus RNA monocatenario en sentido positivo, lo cual quiere decir que **puede ser traducido inmediatamente por la maquinaria de la célula hospedera.** Dentro de la clasificación de la familia *Coronaviridae*, pertenece al grupo *B*
 - El nombre del receptor de este virus en las células humanas es **ECA 2**, o en inglés **ACE 2**, se encuentra en:
+
+---
+
     1. **Neumocitos tipo 2** o células epiteliales alveolares tipo 2, que se encuentran en los pulmones.
     2. Intestino delgado
     3. Endotelio
@@ -22,6 +27,7 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 ## Proteínas virales
 
 - En total, el virus codifica para ::: proteínas, divididas en estructurales y no estructurales, es importante mencionar que **la variabilidad del virus radica en las proteínas estructurales, ya que son las menos conservadas**, significa que cuando varíen, es probable que un fármaco dirigido a ellas deje de ser efectivo. En este segmento, describiremos las proteínas más relevantes para el desarrollo de terapéuticos.
+
 ### **Proteínas no estructurales**
   1. **Proteasa tipo papaína:** *Las tijeras moleculares*.
    - Sus cortes permiten liberar otras tres proteínas no estructurales que son necesarias para la replicación.
