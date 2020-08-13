@@ -22,7 +22,7 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 ## Proteínas virales
 
 - En total, el virus codifica para ::: proteínas, divididas en estructurales y no estructurales, es importante mencionar que **la variabilidad del virus radica en las proteínas estructurales, ya que son las menos conservadas**, significa que cuando varíen, es probable que un fármaco dirigido a ellas deje de ser efectivo. En este segmento, describiremos las proteínas más relevantes para el desarrollo de terapéuticos.
-- **Proteínas no estructurales**
+### **Proteínas no estructurales**
   1. **Proteasa tipo papaína:** *Las tijeras moleculares*.
    - Sus cortes permiten liberar otras tres proteínas no estructurales que son necesarias para la replicación.
    - **Es responsable también de la supresión de la respuesta inmune humana**, mediante la intervención de una cascada de señales, inhibe la producción de citocinas e interferones, los cuales funcionan como mensajeros llamando a más células inflamatorias.
@@ -31,7 +31,7 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
   3. **RNA polimerasa dependiente de RNA**
    - Es generada por un corte de la proteína principal. 
    - Su característica es que es **poco procesiva**, significa que sola no es infectante, **necesita de dos proteínas no estructurales, (7 y 8)** para ser veloz y funcionar.
-- **Proteínas estructurales**
+### **Proteínas estructurales**
   1. Proteína ***Spike***
     - Es importante profundizar en la descripción de esta proteína, ya que es el blanco principal de múltiples fármacos que se están desarrollando en diferentes partes del mundo, está conformada por:
     - 3 proteínas iguales, por lo tanto, estamos describiendo a un **homotrímero**
