@@ -33,12 +33,12 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
    - Su característica es que es **poco procesiva**, significa que sola no es infectante, **necesita de dos proteínas no estructurales, (7 y 8)** para ser veloz y funcionar.
 ### **Proteínas estructurales**
   1. Proteína ***Spike***
-    - Es importante profundizar en la descripción de esta proteína, ya que es el blanco principal de múltiples fármacos que se están desarrollando en diferentes partes del mundo, está conformada por:
-    - 3 proteínas iguales, por lo tanto, estamos describiendo a un **homotrímero**
-    - Su peso es de 180 kD.
-    - Cada subunidad tiene 2 porciones distintas, **la subinidad 1 y la subunidad 2.**
-     - **Subunidad 1:** Su responsabilidad es **unirse al receptor ECA 2**.
-     - **Subunidad 2:** Está encargada de **penetrar en la célula hospedera**
+      - Es importante profundizar en la descripción de esta proteína, ya que es el blanco principal de múltiples fármacos que se están desarrollando en diferentes partes del mundo, está conformada por:
+      - 3 proteínas iguales, por lo tanto, estamos describiendo a un **homotrímero**
+      - Su peso es de 180 kD.
+      - Cada subunidad tiene 2 porciones distintas, **la subinidad 1 y la subunidad 2.**
+            - **Subunidad 1:** Su responsabilidad es **unirse al receptor ECA 2**.
+            - **Subunidad 2:** Está encargada de **penetrar en la célula hospedera**
     Para que esta proteína funcione **necesita ser activada**, curiosamente, por la interacción con **¡Dos proteínas humanas!**
     El primer corte debe ser realizado por la **furina**
 
