@@ -1,3 +1,4 @@
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/LOGO_CLUBES.png?raw=true" alt="drawing" width="200"/>
 
 # Proteínas Blanco, Rutas terapéuticas en el tratamiento de COVID-19
 
@@ -17,7 +18,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 - El SARS-COV2 es un virus RNA monocatenario en sentido positivo, lo cual quiere decir que **puede ser traducido inmediatamente por la maquinaria de la célula hospedera.** Dentro de la clasificación de la familia *Coronaviridae*, pertenece al grupo *B*
 
-<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Estructura%20viral.jpg?raw=true" alt="VIRAL st" width="600"/>
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Estructura%20viral.jpg?raw=true" alt="VIRAL st" width="700"/>
 
 - El nombre del receptor de este virus en las células humanas es **ECA 2**, o en inglés **ACE 2**, se encuentra en:
 
