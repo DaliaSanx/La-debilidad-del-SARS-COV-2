@@ -10,7 +10,8 @@
 
 - Es de rápido contagio, por lo que, en pocas semanas llegó a todo el mundo, causando **desde infecciones asintomáticas hasta casos graves, en los que la última consencuencia fue la muerte.**
 
-<img src="" alt="drawing" width="500"/>
+<img src="https://cnnespanol.cnn.com/wp-content/uploads/2020/03/mapa-coronavirus-9-marzo.png?w=940&h=530&crop=1" alt="drawing" width="500"/>
+- Mapa mundial que muestra los brotes de COVID-19 actuales, de acuerdo con los reportes de cada país. Puedes consultarlo directamente en el siguiente [link](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 - En el mundo, hasta el 12 de Agosto de 2020, **han habido aproximadamente 226,264 casos nuevos reportados**, y hasta ese mismo día **se estimaron 4,918 muertes.** 
 México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexicano publicó que hasta ese día habían 492,522 casos confirmados y 53,929 defunciones.**
@@ -24,7 +25,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 ## <img src="https://images.vexels.com/media/users/3/193093/isolated/preview/83f23fec75cc6474e19d33a4bec06d7d-covid-19-iconos-de-virus-by-vexels.png" alt="Coronavirus" width="50"/> Coronavirus, diferentes agentes, diferentes especies.
 
-<img src="" alt="Coronavirus types" width="600"/>
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/coronavirus%20tipos.jpeg?raw=true" alt="Coronavirus types" width="600"/>
 
 
 ## <img src="https://image.flaticon.com/icons/png/512/1756/1756507.png" alt="RNA" width="50"/> El ciclo viral.
