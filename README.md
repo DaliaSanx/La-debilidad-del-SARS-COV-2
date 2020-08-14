@@ -47,21 +47,21 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
        - Cada subunidad tiene 2 porciones distintas, **la subinidad 1 y la subunidad 2.**
         - **Subunidad 1:** Su responsabilidad es **unirse al receptor ECA 2**.
         - **Subunidad 2:** Está encargada de **penetrar en la célula hospedera**
-   <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE.jpg?raw=true" alt="SPIKE" width="700"/>     
+   <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE.jpg?raw=true" alt="SPIKE" width="800"/>     
         
    Para que esta proteína funcione **necesita ser activada**, curiosamente, por la interacción con **¡Dos proteínas humanas!**.
    El primer corte debe ser realizado por la **furina**, mientras que el segundo corte lo realiza una enzima llamada **TMPRSS2**, a pesar de que se conoce el funcionamiento de esta proteína en la interacción con el virus, **aún permanece como desconocida su función en el cuerpo humano**
 
 - ***Cada una de estas proteínas es como si fuera un hueso de nuestro esqueleto, tal vez no todos sean elementales, pero alterando el funcionamiento de al menos una, desestabilizaría al virus.***
 
-## <img src="https://www.pngrepo.com/download/200193/pills-pill.png" alt="SPIKE" width="700"/> Objetivos terapéuticos, encontrando el punto débil del SARS-COV-2
+## <img src="https://img.icons8.com/plasticine/2x/pill.png" alt="Pill" width="50"/> Objetivos terapéuticos, encontrando el punto débil del SARS-COV-2
 
 ### Spike
 
-<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE%20PYMOL.jpg?raw=true" alt="SPIKE" width="700"/>
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE%20PYMOL.jpg?raw=true" alt="SPIKE" width="50"/>
 
 
-### Proteína 2
+### Proteasa tipo Papaína
 
 ## ¿Porqué estas proteinas y no otras?
 
