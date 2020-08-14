@@ -1,4 +1,4 @@
-<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/LOGO_CLUBES.png?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/LOGO_CLUBES.png?raw=true" alt="drawing" width="200"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Corona-Amigas.png?raw=true" alt="drawing" width="200"/>  
 
 # Proteínas Blanco, Rutas terapéuticas en el tratamiento de COVID-19
 
@@ -61,6 +61,7 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 ## <img src="https://img.icons8.com/plasticine/2x/pill.png" alt="Pill" width="50"/> Objetivos terapéuticos, encontrando el punto débil del SARS-COV-2
 
 ### La proteína *"Spike"*
+   - La entrada del coronavirus en las células huésped está mediada por la glicoproteína de pico transmembrana (S) que forma homotrímeros que sobresalen de la superficie viral 
 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE%20PYMOL.jpg?raw=true" alt="SPIKE" width="600"/>
 
@@ -75,10 +76,10 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
   <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="300"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="500"/>
     
   - Se dice que esta proteína tiene forma de mano, por lo que en el esquema está señalizado de la siguiente manera:
-        1. Rojo: Dedos
-        2. Azul: Palma (sitio activo)
-        3. Amarillo: pulgar
-        4. Naranja:  dominios de tipo ubiquitina N-terminal (Ubl)
+      1. Rojo: Dedos
+      2. Azul: Palma (sitio activo)
+      3. Amarillo: pulgar
+      4. Naranja:  dominios de tipo ubiquitina N-terminal (Ubl)
 
 
 ## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> ¿Porqué estas proteinas y no otras?
@@ -104,19 +105,28 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 ## El Equipo, *Las CoronaAmigas*
 
 #### Dalia Sánchez, Oaxaca.
-   - Estudiante de la licenciatura en Medicina y Cirugía de la Universidad Autónoma Benito Juárez de Oaxaca
-   - Me considero catadora de las mejores comidas, fan #1 de todos mis amigos, tengo una gran pasión por mi carrera y la programación y de vez en cuando hago yoga.
+   - ¡Hola! Mi nombre es Dalia, soy estudiante de la Lic. en Medicina y Cirugía de la Universidad Autónoma Benito Juárez de Oaxaca, me considero catadora de las mejores comidas, fan #1 de todos mis amigos, tengo una gran pasión por mi carrera y la programación. Esperamos disfrutes de esta página y no dudes en investigar todo lo que se te venga a la mente.
 #### Adamary Hernández, Morelos.
-   - Estudiante de la lincenciatura en Bioquímica y Biología Molecular en la Universidad Autónoma del Estado de Morelos
+   - 
 #### Daysi Venancio, Tlaxcala.
    - Estudiante de la linceciatura en Quiímico Fármaco Biólogo de la Benemérita Universidad Autónoma de Puebla
 
 #### Lesslie García, Yucatán.
-   - Estudiante de la linceciatura en Quiímico Fármaco Biólogo de la Universidad Autónoma de Yucatán
+   - ¡Hola! Mi nombre es Lesslie pero me llaman “Less”. Soy estudiante de la Lic. de Químico Farmacéutico Biólogo de la Universidad Autónoma de Yucatán. Decidí estudiar esta bellísima carrera por identificarme como amante de la ciencia. ¡Espero esta página te ayude a entender e interpretar el gran mundo de la ciencia!
 ---
 ## <img src="https://img.icons8.com/plasticine/2x/books.png" alt="book" width="50"/> Referencias
 
    1. Linlin Zhang y col. Ciencias. 2020. eabb3405.
+   2. [Tortorici y Veesler, 2019](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#bib72)
+   3. [Gui et al., 2017](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
+   4. [Kirchdoerfer et al., 2016](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
+   5. [Pallesen et al., 2017](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
+   6. [Song et al., 2018](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
+   7. [Walls et al., 2016a](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
+   8. [Walls et al., 2017b](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
+   9. [Yuan et al., 2017](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
+   10. [Madu et al., 2009](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
+   11. [Millet y Whittaker, 2015](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
 
 
 ```
