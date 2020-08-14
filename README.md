@@ -24,7 +24,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 ## <img src="https://images.vexels.com/media/users/3/193093/isolated/preview/83f23fec75cc6474e19d33a4bec06d7d-covid-19-iconos-de-virus-by-vexels.png" alt="Coronavirus" width="50"/> Coronavirus, diferentes agentes, diferentes especies.
 
-<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/coronavirus%20types.jpeg?raw=true" alt="Coronavirus types" width="50"/>
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/coronavirus%20types.jpeg?raw=true" alt="Coronavirus types" width="600"/>
 
 
 ## <img src="https://image.flaticon.com/icons/png/512/1756/1756507.png" alt="RNA" width="50"/> El ciclo viral.
