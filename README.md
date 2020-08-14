@@ -71,7 +71,7 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
    - Esta enzima es esencial para procesar las poliproteínas que se traducen del ARN viral. **Inhibir la actividad de esta enzima bloquearía la replicación viral.**
 **La unión de drogas podría inhibir la producción de otras proteínas virales importantes para su replicación.**
   
-  <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="500"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="500"/>
+  <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="300"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="500"/>
     
   - Se dice que esta proteína tiene forma de mano, por lo que en el esquema está señalizado de la siguiente manera:
         1. Rojo: Dedos
@@ -83,10 +83,10 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 ## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> ¿Porqué estas proteinas y no otras?
 
 
-## Datos curiosos
+## <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/512x512/plain/eye.png" alt="Eye" width="50"/> Datos curiosos
 
 ---
-## Glosario
+## <img src="https://png.pngtree.com/png-vector/20190801/ourlarge/pngtree-magnifying-glass-icon-png-image_1644200.jpg" alt="Eye" width="50"/> Glosario
 
 #### Blanco terapéutico
 #### Conservada
@@ -113,7 +113,9 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 #### Lesslie García, Yucatán.
    - Estudiante de la linceciatura en Quiímico Fármaco Biólogo de la Universidad Autónoma de Yucatán
 ---
-## Referencias
+## <img src="https://img.icons8.com/plasticine/2x/books.png" alt="book" width="50"/> Referencias
+
+   1. Linlin Zhang y col. Ciencias. 2020. eabb3405.
 
 
 ```
