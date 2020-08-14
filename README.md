@@ -18,24 +18,30 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 ## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> **¿COVID-19? ¿SARS-COV-2? ¿Coronavirus?**
 
    - Seguramente te es familiiar escuchar muchas formas de llamarle a este virus y sus manifestaciones clínicas, pero es importante que queden claras las diferencias entre un término y otro para poder comprender toda la información y sobre todo, transmitir exactamente el mensaje que quieres al hablar del virus con quien desees.
-    - **Coronavirus**
-    - **SARS-COV-2**
-    - **COVID-19**
+    - **Coronavirus:**
+    - **SARS-COV-2:**
+    - **COVID-19:**
+
+## <img src="https://images.vexels.com/media/users/3/193093/isolated/preview/83f23fec75cc6474e19d33a4bec06d7d-covid-19-iconos-de-virus-by-vexels.png" alt="Coronavirus" width="50"/> Coronavirus, diferentes agentes, diferentes especies.
+
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/coronavirus%20types.jpeg?raw=true" alt="Coronavirus types" width="50"/>
+
 
 ## <img src="https://image.flaticon.com/icons/png/512/1756/1756507.png" alt="RNA" width="50"/> El ciclo viral.
 
 - El SARS-COV2 es un virus RNA monocatenario en sentido positivo, lo cual quiere decir que **puede ser traducido inmediatamente por la maquinaria de la célula hospedera.** Dentro de la clasificación de la familia *Coronaviridae*, pertenece al grupo *B*
 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Estructura%20viral.jpg?raw=true" alt="VIRAL st" width="700"/>
+   - Representación del Coronavirus SARS-COV-2 y sus proteínas esctructurales.
+   
+**Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el ciclo de replicación de este virus.**
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Ciclo%20Viral%20BR.png?raw=true" alt="VIRAL CICLE" width="600"/>
 
-- El nombre del receptor de este virus en las células humanas es **ECA 2**, o en inglés **ACE 2**, se encuentra en:
-
+   1. Primero, el virus logra entrar al cuerpo humano a través de pequeñas gotas de saliva o secreciones de una persona contaminada, estas logran ingresar al aparato respiratorio.
+   2. Una vez que se encuentran en las vías respiratorias, los virus logran llegar a las células alveolares, ubicadas en los pulmones, estas tienen un receptor muy importante: El nombre del receptor es **ECA 2**, o en inglés **ACE 2**, su nombre son las iniciales de *"Receptor de la Enzima Convertidora de Angiotensina"*, se encuentra en:
     1. **Neumocitos tipo 2** o células epiteliales alveolares tipo 2, que se encuentran en los pulmones.
     2. Intestino delgado
     3. Endotelio
-Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el ciclo de replicación de este virus.
-
-<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Ciclo%20Viral%20BR.png?raw=true" alt="VIRAL CICLE" width="600"/>
 
 ## <img src="https://cdn.icon-icons.com/icons2/2239/PNG/512/virus_coronavirus_covid_covid_icon_134829.png" alt="VIRUS" width="50"/> Proteínas virales.
 
