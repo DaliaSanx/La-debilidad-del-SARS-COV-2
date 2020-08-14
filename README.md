@@ -54,7 +54,7 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 
 - ***Cada una de estas proteínas es como si fuera un hueso de nuestro esqueleto, tal vez no todos sean elementales, pero alterando el funcionamiento de al menos una, desestabilizaría al virus.***
 
-## Objetivos terapéuticos, encontrando el punto débil del SARS-COV-2
+## <img src="https://www.pngrepo.com/download/200193/pills-pill.png" alt="SPIKE" width="700"/> Objetivos terapéuticos, encontrando el punto débil del SARS-COV-2
 
 ### Spike
 
