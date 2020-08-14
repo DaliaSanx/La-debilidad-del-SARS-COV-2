@@ -31,7 +31,7 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 
 ### <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/protein-17-554033.png" alt="Protein" width="50"/> **Proteínas no estructurales**
   1. **Proteasa tipo papaína:** *Las tijeras moleculares*.
-   - Sus cortes permiten liberar otras tres proteínas no estructurales que son necesarias para la replicación.
+   - Sus cortes permiten liberar otras tres proteínas no estructurales que son necesarias para la replicación, llamadas Nsp1, Nsp2 y Nsp3, se nombran así ya que es una abreviación de *"Non structural protein"*.
    - **Es responsable también de la supresión de la respuesta inmune humana**, mediante la intervención de una cascada de señales, inhibe la producción de citocinas e interferones, los cuales funcionan como mensajeros llamando a más células inflamatorias.
   2. **Proteasa principal:** *3CL Pro*.
    - Realiza 11 cortes, muchos más que la de tipo papaína, es por ello que se le llama *Proteasa principal.*
@@ -58,12 +58,24 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 
 ### Spike
 
-<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE%20PYMOL.jpg?raw=true" alt="SPIKE" width="50"/>
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE%20PYMOL.jpg?raw=true" alt="SPIKE" width="600"/>
 
 
 ### Proteasa tipo Papaína
+   - Funciones: 
+    1. Da lugar a proteínas necesarias para la replicación viral (Nsp1, Nsp2, Nsp3). 
+    2. Revierte eventos de ISGilación en la célula hospedera, por lo que **también es responsable de la respuesta inmune innata**.
+   - Esta enzima es esencial para procesar las poliproteínas que se traducen del ARN viral. **Inhibir la actividad de esta enzima bloquearía la replicación viral.**
+**La unión de drogas podría inhibir la producción de otras proteínas virales importantes para su replicación.**
+   - Se dice que esta proteína tiene forma de mano, por lo que en el esquema está señalizado de la siguiente manera:
+        1. Rojo: Dedos
+        2. Azul: Palma (sitio activo)
+        3. Amarillo: pulgar
+        4. Naranja:  dominios de tipo ubiquitina N-terminal (Ubl)
 
-## ¿Porqué estas proteinas y no otras?
+
+## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> ¿Porqué estas proteinas y no otras?
+
 
 ## Datos curiosos
 
@@ -84,14 +96,15 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 ---
 ## El Equipo, *Las CoronaAmigas*
 
-#### Dalia Sánchez
+#### Dalia Sánchez, Oaxaca.
    - Estudiante de la licenciatura en Medicina y Cirugía de la Universidad Autónoma Benito Juárez de Oaxaca
-#### Adamary Hernández
+   - Me considero catadora de las mejores comidas, fan #1 de todos mis amigos, tengo una gran pasión por mi carrera y la programación y de vez en cuando hago yoga.
+#### Adamary Hernández, Morelos.
    - Estudiante de la lincenciatura en Bioquímica y Biología Molecular en la Universidad Autónoma del Estado de Morelos
-#### Daysi Venancio
+#### Daysi Venancio, Tlaxcala.
    - Estudiante de la linceciatura en Quiímico Fármaco Biólogo de la Benemérita Universidad Autónoma de Puebla
 
-#### Lesslie García
+#### Lesslie García, Yucatán.
    - Estudiante de la linceciatura en Quiímico Fármaco Biólogo de la Universidad Autónoma de Yucatán
 ---
 ## Referencias
