@@ -10,9 +10,17 @@
 
 - Es de rápido contagio, por lo que, en pocas semanas llegó a todo el mundo, causando **desde infecciones asintomáticas hasta casos graves, en los que la última consencuencia fue la muerte.**
 
+<img src="" alt="drawing" width="500"/>
+
 - En el mundo, hasta el 12 de Agosto de 2020, **han habido aproximadamente 226,264 casos nuevos reportados**, y hasta ese mismo día **se estimaron 4,918 muertes.** 
 México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexicano publicó que hasta ese día habían 492,522 casos confirmados y 53,929 defunciones.**
 
+## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> **¿COVID-19? ¿SARS-COV-2? ¿Coronavirus?**
+
+   - Seguramente te es familiiar escuchar muchas formas de llamarle a este virus y sus manifestaciones clínicas, pero es importante que queden claras las diferencias entre un término y otro para poder comprender toda la información y sobre todo, transmitir exactamente el mensaje que quieres al hablar del virus con quien desees.
+    - **Coronavirus**
+    - **SARS-COV-2**
+    - **COVID-19**
 
 ## <img src="https://image.flaticon.com/icons/png/512/1756/1756507.png" alt="RNA" width="50"/> El ciclo viral.
 
@@ -123,9 +131,7 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
    5. Wrapp, D., Wang, N., Corbet, K.S., Goldsmith, J.A., Hsieh, C., Abiona, O., Graham, B.S., & McLellan, J.S.. (2020, marzo 13). Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science, 367, pp. 1260-1263
    6. 
    7. 
-   
-   5.
-   
+      
 
 ```
 
