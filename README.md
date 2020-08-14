@@ -1,3 +1,4 @@
+
 # Proteínas Blanco, Rutas terapéuticas en el tratamiento de COVID-19
 
 ---
@@ -22,11 +23,11 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
     3. Endotelio
 Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el ciclo de replicación de este virus.
 
-<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Ciclo%20viral.png?raw=true" alt="VIRAL CICLE" width="600"/>
+<img src="" alt="VIRAL CICLE" width="600"/>
 
 ## <img src="https://cdn.icon-icons.com/icons2/2239/PNG/512/virus_coronavirus_covid_covid_icon_134829.png" alt="VIRUS" width="50"/> Proteínas virales.
 
-- En total, el virus codifica para ::: proteínas, divididas en estructurales y no estructurales, es importante mencionar que **la variabilidad del virus radica en las proteínas estructurales, ya que son las menos conservadas**, significa que cuando varíen, es probable que un fármaco dirigido a ellas deje de ser efectivo. En este segmento, describiremos las proteínas más relevantes para el desarrollo de terapéuticos.
+- El virus codifica para varias proteínas, todas distintas y específicas; divididas en estructurales y no estructurales. Es importante mencionar que **la variabilidad del virus radica en las proteínas estructurales, ya que son las menos conservadas**, es decir, cuando varíen, es probable que un fármaco dirigido a ellas deje de ser efectivo. En este segmento, describiremos las proteínas más relevantes para el desarrollo de terapéuticos.
 
 ### <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/protein-17-554033.png" alt="Protein" width="50"/> **Proteínas no estructurales**
   1. **Proteasa tipo papaína:** *Las tijeras moleculares*.
@@ -46,10 +47,10 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
        - Cada subunidad tiene 2 porciones distintas, **la subinidad 1 y la subunidad 2.**
         - **Subunidad 1:** Su responsabilidad es **unirse al receptor ECA 2**.
         - **Subunidad 2:** Está encargada de **penetrar en la célula hospedera**
-   <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE.jpg?raw=true" alt="SPIKE" width="600"/>     
+   <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE.jpg?raw=true" alt="SPIKE" width="700"/>     
         
    Para que esta proteína funcione **necesita ser activada**, curiosamente, por la interacción con **¡Dos proteínas humanas!**.
-   El primer corte debe ser realizado por la **furina**
+   El primer corte debe ser realizado por la **furina**, mientras que el segundo corte lo realiza una enzima llamada **TMPRSS2**, a pesar de que se conoce el funcionamiento de esta proteína en la interacción con el virus, **aún permanece como desconocida su función en el cuerpo humano**
 
 - ***Cada una de estas proteínas es como si fuera un hueso de nuestro esqueleto, tal vez no todos sean elementales, pero alterando el funcionamiento de al menos una, desestabilizaría al virus.***
 
@@ -57,30 +58,44 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 
 ### Spike
 
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE%20PYMOL.jpg?raw=true" alt="SPIKE" width="700"/>
+
+
 ### Proteína 2
 
 ## ¿Porqué estas proteinas y no otras?
 
 ## Datos curiosos
 
+---
+## Glosario
+
+#### Blanco terapéutico
+#### Conservada
+#### Endotelio
+#### Maquinaria celular
+#### Neumocitos
+#### Papaína
+#### Proteasa
+#### Replicación
+#### RNA Polimerasa
+#### Spike
+#### Variable
+---
 ## El Equipo, *Las CoronaAmigas*
 
 #### Dalia Sánchez
    - Estudiante de la licenciatura en Medicina y Cirugía de la Universidad Autónoma Benito Juárez de Oaxaca
+#### Adamary Hernández
+   - Estudiante de la lincenciatura en Bioquímica y Biología Molecular en la Universidad Autónoma del Estado de Morelos
 #### Daysi Venancio
    - Estudiante de la linceciatura en Quiímico Fármaco Biólogo de la Benemérita Universidad Autónoma de Puebla
-#### Adamary 
-#### Lesslie
 
+#### Lesslie García
+   - Estudiante de la linceciatura en Quiímico Fármaco Biólogo de la Universidad Autónoma de Yucatán
+---
 ## Referencias
 
-[Link](url) and ![Image](src)
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
