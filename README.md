@@ -116,18 +116,16 @@ Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el 
 ---
 ## <img src="https://img.icons8.com/plasticine/2x/books.png" alt="book" width="50"/> Referencias
 
-   1. Linlin Zhang y col. Ciencias. 2020. eabb3405.
-   2. [Tortorici y Veesler, 2019](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#bib72)
-   3. [Gui et al., 2017](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
-   4. [Kirchdoerfer et al., 2016](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
-   5. [Pallesen et al., 2017](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
-   6. [Song et al., 2018](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
-   7. [Walls et al., 2016a](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
-   8. [Walls et al., 2017b](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
-   9. [Yuan et al., 2017](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
-   10. [Madu et al., 2009](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
-   11. [Millet y Whittaker, 2015](https://www.cell.com/cell/fulltext/S0092-8674(20)30262-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420302622%3Fshowall%3Dtrue#)
-
+   1. Hoffman, M., Klein-Weber, H., y Pöhlmann, S. 2020. A Multibasic Cleavage Site in the Spike Protein of SARS-CoV-2 Is Essential for Infection of Human Lung Cells. Molecular Cell 78, 779-784
+   2. Lan, J., Ge, J., Yu, J., Shan, S., Zhou, H., Fan, S., ... & Wang, X. (2020). Structure of the SARS-CoV-2 spike receptor-binding domain bound to the ACE2 receptor. Nature, 581(7807), 215-220.
+   3. Ou, X., Liu, Y., Lei, X., Li, P., Mi, D., Ren, L., Guo, L., Guo, R., Chen, T., Hu, J., Xiang, Z., Mu, Z., Chen, X., Chen, J., Hu, K., Jin, Q., Wang, J., y Qian, Z. 2020. Characterization of spike glycoprotein of SARS-CoV-2 on virus entry and its immune cross-reactivity with SARS-CoV. Nature communications 11: 1620
+   4. Walls, A.C., Park,Y-J., Tortorici, M.A., Wall, A., McGuire, A.T., & Veesler, D.. (2020, marzo 09). Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein. Cell, 181, pp. 281-292.
+   5. Wrapp, D., Wang, N., Corbet, K.S., Goldsmith, J.A., Hsieh, C., Abiona, O., Graham, B.S., & McLellan, J.S.. (2020, marzo 13). Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science, 367, pp. 1260-1263
+   6. 
+   7. 
+   
+   5.
+   
 
 ```
 
