@@ -6,12 +6,13 @@
 
 ## <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/globe-512.png" alt="drawing" width="50"/> COVID-19, ¿Porqué es tan importante el tratamiento?
 
-- A finales del 2019 surgió en China un brote de SARS-COV-2. Dicho virus se asocia directamente a enfermedades de las vías respiratorias (principalmente).
+- A finales de 2019, un nuevo coronavirus fue identificado caomo la causa de un brote de neumonía en Wuhan, una ciudad en la provincia de Hubei en China. Se transmitió rápidamente, llevando a la Organización Mundial de la Salud (OMS) a declarar un estado de **emergencia** a finales de Enero 2020, y definirlo como una pandemia en Marzo 2020. El virus causante de la enfermedad COVID-19 es designado en inglés ***Severe Acute Respiratory Syndrome Coronavirus 2*** (SARS-CoV-2).
 
 - Es de rápido contagio, por lo que, en pocas semanas llegó a todo el mundo, causando **desde infecciones asintomáticas hasta casos graves, en los que la última consencuencia fue la muerte.**
 
 <img src="https://cnnespanol.cnn.com/wp-content/uploads/2020/03/mapa-coronavirus-9-marzo.png?w=940&h=530&crop=1" alt="drawing" width="500"/>
-- Mapa mundial que muestra los brotes de COVID-19 actuales, de acuerdo con los reportes de cada país. Puedes consultarlo directamente en el siguiente [link](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
+- Mapa mundial que muestra los brotes de COVID-19 actuales, de acuerdo con los reportes de cada país. Puedes consultarlo directamente en el siguiente [enlace](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 - En el mundo, hasta el 12 de Agosto de 2020, **han habido aproximadamente 226,264 casos nuevos reportados**, y hasta ese mismo día **se estimaron 4,918 muertes.** 
 México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexicano publicó que hasta ese día habían 492,522 casos confirmados y 53,929 defunciones.**
@@ -19,9 +20,9 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 ## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> **¿COVID-19? ¿SARS-COV-2? ¿Coronavirus?**
 
    - Seguramente te es familiiar escuchar muchas formas de llamarle a este virus y sus manifestaciones clínicas, pero es importante que queden claras las diferencias entre un término y otro para poder comprender toda la información y sobre todo, transmitir exactamente el mensaje que quieres al hablar del virus con quien desees.
-    - **Coronavirus:**
-    - **SARS-COV-2:**
-    - **COVID-19:**
+    - **Coronavirus:** Se trata del género de virus que pertenecen a la familia *Coronaviridae*, dentro de ellos también se encuentra el género *Torovirus*, todos ellos comparten en su estructura la presencia de una *"Corona"*, formada por glucoproteínas que se proyectan desde su envoltura al exterior. Pueden infectar a varias especies.
+    - **SARS-COV-2:** De las siglas en inglés de ***Severe Acute Respiratory Syndrome Coronavirus 2*** Es un virus que pertenece al género Coronavirus de la familia *Coronaviridae*, específicamente a la generación *beta*, junto con el **SARS-COV-1, MERS-COV**. Este virus está asociado directamente a infecciones Respiratorias y gastrointestinales.
+    - **COVID-19:** 
 
 ## <img src="https://images.vexels.com/media/users/3/193093/isolated/preview/83f23fec75cc6474e19d33a4bec06d7d-covid-19-iconos-de-virus-by-vexels.png" alt="Coronavirus" width="50"/> Coronavirus, diferentes agentes, diferentes especies.
 
@@ -136,7 +137,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
    3. Ou, X., Liu, Y., Lei, X., Li, P., Mi, D., Ren, L., Guo, L., Guo, R., Chen, T., Hu, J., Xiang, Z., Mu, Z., Chen, X., Chen, J., Hu, K., Jin, Q., Wang, J., y Qian, Z. 2020. Characterization of spike glycoprotein of SARS-CoV-2 on virus entry and its immune cross-reactivity with SARS-CoV. Nature communications 11: 1620
    4. Walls, A.C., Park,Y-J., Tortorici, M.A., Wall, A., McGuire, A.T., & Veesler, D.. (2020, marzo 09). Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein. Cell, 181, pp. 281-292.
    5. Wrapp, D., Wang, N., Corbet, K.S., Goldsmith, J.A., Hsieh, C., Abiona, O., Graham, B.S., & McLellan, J.S.. (2020, marzo 13). Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science, 367, pp. 1260-1263
-   6. 
+   6. [Dtme.ranm.es](http://dtme.ranm.es/dtm/ver.php?id=62928&cual=0)
    7. 
       
 
