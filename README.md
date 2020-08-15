@@ -103,8 +103,8 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 #### Subunidades
 - Las proteínas CoV S son proteínas de fusión virales típicas de clase I, y se requiere la escisión de proteasa para la activación del potencial de fusión de la proteína S.
 - Spike (S) comprende dos subunidades funcionales responsables de:
-      - Subunidad S1: Unión al receptor de la célula huésped (RBD). 
-      - Subunidad S2: Fusión de las membranas viral y celular.
+    - Subunidad S1: Unión al receptor de la célula huésped (RBD). 
+    - Subunidad S2: Fusión de las membranas viral y celular.
       
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE.jpg?raw=true" alt="SPIKE subunidades" width="600"/>       
 
@@ -112,8 +112,13 @@ Los diferentes coronavirus usan dominios distintos dentro de la subunidad S1 par
 - La subunidad distal S1 también contribuye a la estabilización del estado de prefusión de la subunidad S2 anclada a la membrana que contiene la maquinaria de fusión.Se ha propuesto que esta escisión activa la proteína para la fusión de membranas a través de cambios conformacionales irreversibles extensos.
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/primer%20corte.jpeg?raw=true" alt="Primer corte" width="600"/>
 
-<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/Segundo%20corte.jpeg?raw=true" alt="Segundo corte" width="600"/>
+- Se ha identificado la presencia de un sitio de escisión de furina en el límite S1/S2 que se separa durante la biosíntesis, una característica que distingue al SARS-CoV-2 de sus predecesores. La furina es una proprotein convertasa, se va a encargar de realizar el primer corte para preactivar a la proteína spike antes de la fusión membranal. 
+TMPRSS2 es una serin proteasa transmembranal tipo 2, tiene amplia expresión en diferentes tipos de células, ayuda a reconocer el sitio y realiza un segundo corte, activando completamente a spike y permitiendo la fusión de la membrana viral con la membrana celular y dando paso a la entrada por endocitocis.
 
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/Segundo%20corte.jpeg?raw=true" alt="Segundo corte" width="600"/>
+#### Sobre los glicanos de *Spike*
+
+- Los trimers S están extensamente glicosilados por glicanos derivados del huésped, los glicanos unidos participan en el adecuado plegamiento de la proteína, modulan la accesibilidad a las proteasas del huésped y los anticuerpos neutralizantes, esto quiere decir que los sitios de glicosilación están bajo presión selectiva ya que facilitan la evasión inmunitaria al proteger epítopos específicos de la neutralización de anticuerpos, dicho de otro modo, usan enmascaramiento conformacional y blindaje de glicanos para limitar el reconocimiento por la respuesta inmune de los huéspedes infectados. Sin embargo, las superficies con una densidad inusualmente alta de glicanos también pueden permitir el reconocimiento inmunológico y  ya que se ha observado una baja tasa de mutación del SARS-CoV-2 y que hasta el momento no se han observado mutaciones en los sitios de glicosilación, los glicanos ligados a spike podrían ser un buen blanco para diseñar una ruta terapéutica. La proteína S es un objetivo clave en los esfuerzos de diseño de vacunas, y comprender la glicosilación de picos virales recombinantes puede revelar características fundamentales de la biología viral y guiar las estrategias de diseño de vacunas.
 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/SPIKE%20residuos.jpeg?raw=true" alt="Residuos" width="600"/>
 
