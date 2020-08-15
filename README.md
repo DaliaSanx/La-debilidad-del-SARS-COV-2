@@ -106,12 +106,14 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
    2. Revierte eventos de ISGilación en la célula hospedera, por lo que **también es responsable de la respuesta inmune innata**, esto lo logra haciendo cortes en proteínas del hospedero humano, a la ubiquitina y la ISG15. 
    - Esta enzima es esencial para procesar las poliproteínas que se traducen del ARN viral. **Inhibir la actividad de esta enzima bloquearía la replicación viral.**
 **La unión de drogas podría inhibir la producción de otras proteínas virales importantes para su replicación.**
-  
-  <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="400"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="200"/>
+ <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/PapainaBiorender.jpeg?raw=true" alt="SPIKE" width="400"/>
+ 
 
 ¿Por qué es tan importante esta proteína?
 El SARS-CoV-2 usa deubiquitinasas y deISGilasas que invierten estas modificaciones y antagonizan la señalización del huésped.
-    
+  
+   <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="400"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="200"/>
+  
   - Se dice que esta proteína tiene forma de mano, por lo que en el esquema está señalizado de la siguiente manera:
       1. Rojo: Dedos
       2. Azul: Palma (sitio activo)
