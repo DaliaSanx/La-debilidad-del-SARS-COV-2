@@ -34,7 +34,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 - En la familia *Coronaviridae*, los dos géneros pueden infectar tanto a humanos como animales, usualmente no se mezclarían, ya que los virus tienen un tropismo específico, sin embargo, cuando una especie convive muy cerca de otra, por ejemplo, humanos con cerdos, gallinas e incluso camellos, los virus pueden cambiar su información genética recombinándola con la finalidad de tener siempre un hospedero, independiendemente de la especie.
 - A partir de análisis filogenéticos, se ha determinado que el SARS-CoV-2 es sumamente similar al SARS-CoV, comparte 50% de su información genética con el MERS-CoV y 88% con un SARS-CoV que infecta a murciélagos. Ahora, la pregunta es, si es tan parecido al virus que infecta a los murciélagos ¿Ellos lo transmitieron al humano? 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/coronavirus%20tipos.jpeg?raw=true" alt="Coronavirus types" width="600"/>
-- [Un estudio](https://doi.org/10.1002/jmv.25682) demostró que el SARS-CoV-2 pudo haberse originado a partir de la recombinación entre un Coronavirus infectante de muricélagos con otro virus desconocido, logrando una variación en la glucoproteína de envoltura Spike, permitiendo que esta reconociera como receptoras a las células humanas
+- Un estudio demostró que el SARS-CoV-2 pudo haberse originado a partir de la recombinación entre un Coronavirus infectante de muricélagos con otro virus desconocido, logrando una variación en la glucoproteína de envoltura Spike, permitiendo que esta reconociera como receptoras a las células humanas, 
 
 
 
@@ -107,7 +107,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
    - Esta enzima es esencial para procesar las poliproteínas que se traducen del ARN viral. **Inhibir la actividad de esta enzima bloquearía la replicación viral.**
 **La unión de drogas podría inhibir la producción de otras proteínas virales importantes para su replicación.**
   
-  <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="150"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="400"/>
+  <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="400"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="200"/>
 
 ¿Por qué es tan importante esta proteína?
 El SARS-CoV-2 usa deubiquitinasas y deISGilasas que invierten estas modificaciones y antagonizan la señalización del huésped.
@@ -132,6 +132,10 @@ Existen proteínas humanas que podrían ser inhibidas para evitar tener células
 - Dentro de los diferentes tratamientos, seleccionamos como blanco  las **molécuals inhibidoras de la Nsp, y de la entrada del virus a la célula hospedera**, es decir, una proteína no estructural, la PLpro y una estructural, la glucoproteína de envoltura *Spike*; con dos blancos con funciones distintas para el virus, se logra afectar tanto su maquinaria de replicación, como la facilidad con la que logra ingresar a la célula hospedera, esto haría mucho más difícil la infección, y en caso de que esta lograra suceder, la replicación estaría inmediatamente afectada.
 
 
+## <img src="" alt="" width="50"/> ¿Te gustaría saber que pruebas clínicas relacionadas al tratamiento de COVID-19 se están llevando a cabo?
+   - En [esta página](https://www.clinicaltrials.gov/ct2/results?cond=COVID-19) puedes encontrar las pruebas clínicas que se están llevando a cabo alrededor del mundo, si se encuentran reclutando voluntarios, están activas o aún no lo están.
+
+
 ## <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/512x512/plain/eye.png" alt="Eye" width="50"/> Datos curiosos
 
 ---
@@ -150,12 +154,19 @@ Existen proteínas humanas que podrían ser inhibidas para evitar tener células
 #### Papaína
    - Enzima proteolítica que cataliza la separación de las proteínas por hidrólisis.
 #### Proteasa
-   -Las proteasas o peptidasas son enzimas que rompen enlaces peptídicos de las proteínas. Gracias a estas proteínas es posible que el virus siga con su transcripción del ARN, transducción y síntesis de proteínas víricas. Dando así como resultado a procesos y modificaciones de proteínas para su replicación y finalmente puedan infectar al hospedero. 
+   - Las proteasas o peptidasas son enzimas que rompen enlaces peptídicos de las proteínas. Gracias a estas proteínas es posible que el virus siga con su transcripción del ARN, transducción y síntesis de proteínas víricas. Dando así como resultado a procesos y modificaciones de proteínas para su replicación y finalmente puedan infectar al hospedero. 
 #### Replicación
+   - 
 #### RNA Polimerasa
+   - 
+#### Secuencia conservada
+   - Secuencia de aminoácidos en un polipéptido o en nucleótidos de material genético que no ha cambiado o que ha cambiado muy poco durante un período evolutivo.
 #### Sistema Renina-Angiotensina-Aldosterona
+   - 
 #### Spike
+   - 
 #### Tropismo
+   - 
 
 ---
 
