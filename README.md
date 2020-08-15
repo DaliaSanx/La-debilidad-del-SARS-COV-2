@@ -83,7 +83,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
        - Cada subunidad tiene 2 porciones distintas, **la subinidad 1 y la subunidad 2.**
         - **Subunidad 1:** También llamada RBD, su responsabilidad es **unirse al receptor ECA 2**.
         - **Subunidad 2:** Está encargada de **penetrar en la célula hospedera**
-   <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE.jpg?raw=true" alt="SPIKE" width="800"/>     
+   <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE%20PYMOL.jpg?raw=true" alt="SPIKE" width="600"/>
         
    Para que esta proteína funcione **necesita ser activada**, curiosamente, por la interacción con **¡Dos proteínas humanas!**.
    El primer corte debe ser realizado por la **furina** en sitios donde se encuentre el aminoácido Arginina, mientras que el segundo corte lo realiza una enzima llamada **TMPRSS2**, permitiendo así la fusión membranal, a pesar de que se conoce el funcionamiento de esta proteína en la interacción con el virus, **aún permanece como desconocida su función en el cuerpo humano**
@@ -95,13 +95,17 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 ## <img src="https://img.icons8.com/plasticine/2x/pill.png" alt="Pill" width="50"/> Objetivos terapéuticos, encontrando el punto débil del SARS-CoV-2
 
 ### Glucoproteína de la envoltura, La proteína *"Spike"*
-   - La entrada del coronavirus en las células huésped está mediada por la glicoproteína de pico transmembrana (S) que forma homotrímeros que sobresalen de la superficie viral, es un proceso complejo que requiere de la unión al receptor y el procesamiento proteolítico de la glicoproteína de pico transmembrana (S) para promover la fusión virus-célula. El SARS-CoV y otros coronavirus relacionados con el SARS interactúan directamente con la enzima convertidora de angiotensina 2 (ACE2) para ingresar a las células diana. Los coronavirus utilizan la glicoproteína de pico homotrimérica (S) compuesta por dos subunidades funcionales en cada monómero de pico, la subunidad S1 responsable de la unión al receptor y la subunidad S2, responsable de la fusión de la membrana, la glicoproteína S sobresale de la superficie viral para unirse a la enzima ACE2, tal unión desencadena una cascada de eventos que conduce a la fusión entre las membranas celular y viral. 
+   - La entrada del coronavirus en las células huésped está mediada por la glicoproteína de pico transmembrana (S) que forma homotrímeros que sobresalen de la superficie viral, es un proceso complejo que requiere de la unión al receptor y el procesamiento proteolítico de la glicoproteína de pico transmembrana (S) para promover la fusión virus-célula. El SARS-CoV y otros coronavirus relacionados con el SARS interactúan directamente con la enzima convertidora de angiotensina 2 (ACE2) para ingresar a las células diana. Los coronavirus utilizan la glicoproteína de pico homotrimérica (S) compuesta por dos subunidades funcionales en cada monómero de pico, la subunidad S1 responsable de la unión al receptor y la subunidad S2, responsable de la fusión de la membrana, la glicoproteína S sobresale de la superficie viral para unirse a la enzima ACE2, tal unión desencadena una cascada de eventos que conduce a la fusión entre las membranas celular y viral.
+   
+   - Estudios con microscopía crioelectrónica de la proteína spike (s) y su interacción con el receptor celular ACE2 han demostrado que la unión del receptor induce la disociación de la subunidad S1, lo que lleva a la subunidad S2 a pasar de un estado de pre-fusión metaestable a un estado de posfusión con mayor estabilidad que permite la fusión de membranas, por lo que la unión al receptor ACE2 es un paso inicial crítico para el ingreso del SARS-CoV a las células diana.
 
-<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE%20PYMOL.jpg?raw=true" alt="SPIKE" width="600"/>
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE.jpg?raw=true" alt="SPIKE subunidades" width="800"/>     
 
-<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/SPIKE%20residuos.jpeg?raw=true" alt="SPIKEres" width="600"/>
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/SPIKE%20residuos.jpeg?raw=true" alt="Residuos" width="600"/>
 
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/primer%20corte.jpeg?raw=true" alt="Primer corte" width="600"/>
 
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/Segundo%20corte.jpeg?raw=true" alt="Segundo corte" width="600"/>
 
 ### PLPro (Proteasa tipo Papaína)
    - Forma parte de las proteínas no estructurales del coronavirus ya que no forma parte de la estructura del SARS-CoV-2 pero siguen siendo muy importantes tanto como la proteína estructural (SPIKE). 
