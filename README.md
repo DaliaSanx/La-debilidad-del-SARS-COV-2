@@ -34,6 +34,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 - En la familia *Coronaviridae*, los dos géneros pueden infectar tanto a humanos como animales, usualmente no se mezclarían, ya que los virus tienen un tropismo específico, sin embargo, cuando una especie convive muy cerca de otra, por ejemplo, humanos con cerdos, gallinas e incluso camellos, los virus pueden cambiar su información genética recombinándola con la finalidad de tener siempre un hospedero, independiendemente de la especie.
 - A partir de análisis filogenéticos, se ha determinado que el SARS-CoV-2 es sumamente similar al SARS-CoV, comparte 50% de su información genética con el MERS-CoV y 88% con un SARS-CoV que infecta a murciélagos, es con este último, con quien el SARS-CoV-2 comparte un ancestro, algo así como decir que son "primos". Ahora, la pregunta es, si es tan parecido al virus que infecta a los murciélagos ¿Ellos lo transmitieron al humano? 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/coronavirus%20tipos.jpeg?raw=true" alt="Coronavirus types" width="600"/>
+
 - Un estudio demostró que el SARS-CoV-2 pudo haberse originado a partir de la recombinación entre un Coronavirus infectante de muricélagos con otro virus desconocido, logrando una variación en la glucoproteína de envoltura Spike, permitiendo que esta reconociera como receptoras a las células humanas, a esto se le conoce como *zoonosis.* 
 
 
@@ -93,7 +94,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 ## <img src="https://img.icons8.com/plasticine/2x/pill.png" alt="Pill" width="50"/> Objetivos terapéuticos, encontrando el punto débil del SARS-CoV-2
 
-### La proteína *"Spike"*
+### Glucoproteína de la envoltura, La proteína *"Spike"*
    - La entrada del coronavirus en las células huésped está mediada por la glicoproteína de pico transmembrana (S) que forma homotrímeros que sobresalen de la superficie viral 
 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE%20PYMOL.jpg?raw=true" alt="SPIKE" width="600"/>
@@ -106,7 +107,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
    2. Revierte eventos de ISGilación en la célula hospedera, por lo que **también es responsable de la respuesta inmune innata**, esto lo logra haciendo cortes en proteínas del hospedero humano, a la ubiquitina y la ISG15. 
    - Esta enzima es esencial para procesar las poliproteínas que se traducen del ARN viral. **Inhibir la actividad de esta enzima bloquearía la replicación viral.**
 **La unión de drogas podría inhibir la producción de otras proteínas virales importantes para su replicación.**
- <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/PapainaBiorender.jpeg?raw=true" alt="SPIKE" width="400"/>
+ <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/PapainaBiorender.jpeg?raw=true" alt="SPIKE" width="600"/>
  
 
 ¿Por qué es tan importante esta proteína?
