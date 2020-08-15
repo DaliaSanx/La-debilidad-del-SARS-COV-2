@@ -23,7 +23,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
    - Seguramente te es familiiar escuchar muchas formas de llamarle a este virus y sus manifestaciones clínicas, pero es importante que queden claras las diferencias entre un término y otro para poder comprender toda la información y sobre todo, transmitir exactamente el mensaje que quieres al hablar del virus con quien desees.
       - **Coronavirus:** Se trata del género de virus que pertenecen a la familia *Coronaviridae*, dentro de ellos también se encuentra el género *Torovirus*, todos ellos comparten en su estructura la presencia de una *"Corona"*, formada por glucoproteínas que se proyectan desde su envoltura al exterior. Pueden infectar a varias especies.
-      - **SARS-CoV-2:** De las siglas en inglés de ***Severe Acute Respiratory Syndrome Coronavirus 2*** Es un virus que pertenece al género Coronavirus de la familia *Coronaviridae*, específicamente a la generación *beta*, junto con el **SARS-CoV, MERS-CoV**. Este virus está asociado directamente a infecciones Respiratorias y gastrointestinales.
+      - **SARS-CoV-2:** De las siglas en inglés de ***Severe Acute Respiratory Syndrome Coronavirus 2*** Es un virus que pertenece al género Coronavirus de la familia *Coronaviridae*, específicamente a la generación *beta*, junto con el **SARS-CoV, MERS-CoV**. Este virus está asociado directamente a infecciones Respiratorias y gastrointestinales. Se han registrado aproximadamente 6 diferentes tipos de SARS-CoV-2, todos asociados a regiones geográficas específicas.
       - **COVID-19:** Siglas en inglés para *"Coronavirus disease 2019"*, se trata de las manifestaciones clínicas provocadas por la infección por SARS-CoV-2, es como tal, la enfermedad. 
 
 
@@ -86,7 +86,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
    <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE.jpg?raw=true" alt="SPIKE" width="800"/>     
         
    Para que esta proteína funcione **necesita ser activada**, curiosamente, por la interacción con **¡Dos proteínas humanas!**.
-   El primer corte debe ser realizado por la **furina**, mientras que el segundo corte lo realiza una enzima llamada **TMPRSS2**, a pesar de que se conoce el funcionamiento de esta proteína en la interacción con el virus, **aún permanece como desconocida su función en el cuerpo humano**
+   El primer corte debe ser realizado por la **furina** en sitios donde se encuentre el aminoácido Arginina, mientras que el segundo corte lo realiza una enzima llamada **TMPRSS2**, permitiendo así la fusión membranal, a pesar de que se conoce el funcionamiento de esta proteína en la interacción con el virus, **aún permanece como desconocida su función en el cuerpo humano**
 
 - ***Cada una de estas proteínas es como si fuera un hueso de nuestro esqueleto, tal vez no todos sean elementales, pero alterando el funcionamiento de al menos una, desestabilizaría al virus.***
 
@@ -100,14 +100,22 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE%20PYMOL.jpg?raw=true" alt="SPIKE" width="600"/>
 
 
-### Proteasa tipo Papaína
+### PLPro (Proteasa tipo Papaína)
    - Funciones: 
-    1. Da lugar a proteínas necesarias para la replicación viral (Nsp1, Nsp2, Nsp3). 
-    2. Revierte eventos de ISGilación en la célula hospedera, por lo que **también es responsable de la respuesta inmune innata**.
+   1. Da lugar a proteínas necesarias para la replicación viral (Nsp1, Nsp2, Nsp3). 
+   2. Revierte eventos de ISGilación en la célula hospedera, por lo que **también es responsable de la respuesta inmune innata**.
    - Esta enzima es esencial para procesar las poliproteínas que se traducen del ARN viral. **Inhibir la actividad de esta enzima bloquearía la replicación viral.**
 **La unión de drogas podría inhibir la producción de otras proteínas virales importantes para su replicación.**
   
-  <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="300"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="500"/>
+  <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="200"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="400"/>
+    
+    La PLPro (proteasa tipo papaína) forma parte de las proteínas no estructurales del coronavirus ya que no forma parte de la estructura del SARS-CoV-2 pero siguen siendo muy importantes tanto como la proteína estructural (SPIKE). 
+¿Qué es una proteasa? Las proteasas o peptidasas son enzimas que rompen enlaces peptídicos de las proteínas. Gracias a estas proteínas es posible que el virus siga con su transcripción del ARN, transducción y síntesis de proteínas víricas. Dando así como resultado a procesos y modificaciones de proteínas para su replicación y finalmente puedan infectar al hospedero. 
+La PLPro tiene como característica hacer 3 cortes en el genoma viral. Por lo consiguiente, se forman tres proteínas no estructurales (Nsp1, Nsp2 y Nsp3) que son necesarias para la replicación viral del coronavirus. 
+Asimismo, la PLPro tiene la capacidad de hacer cortes en proteínas del hospedero humano, a la ubiquitina y la ISG15. Estas proteínas inhiben la respuesta inmunologíca de los seres humanos. 
+¿Por qué es tan importante esta proteína?
+El SARS-CoV-2 usa deubiquitinasas y deISGilasas que invierten estas modificaciones y antagonizan la señalización del huésped.
+
     
   - Se dice que esta proteína tiene forma de mano, por lo que en el esquema está señalizado de la siguiente manera:
       1. Rojo: Dedos
@@ -147,7 +155,7 @@ Existen proteínas humanas que podrían ser inhibidas para evitar tener células
 #### Sistema Renina-Angiotensina-Aldosterona
 #### Spike
 #### Tropismo
-#### Variable
+
 ---
 
 
@@ -177,9 +185,10 @@ Estar en este challenge fue una experiencia increíble porque conocí a personas
    9. [Walls, A. C., Park, Y. J., Tortorici, M. A., Wall, A., McGuire, A. T., & Veesler, D. (2020). Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein. Cell, 181(2), 281–292.e6. ](https://doi.org/10.1016/j.cell.2020.02.058)
    10.[Lan, J., Ge, J., Yu, J., Shan, S., Zhou, H., Fan, S., Zhang, Q., Shi, X., Wang, Q., Zhang, L., & Wang, X. (2020). Structure of the SARS-CoV-2 spike receptor-binding domain bound to the ACE2 receptor. Nature, 581(7807), 215–220.](https://doi.org/10.1038/s41586-020-2180-5)
    11.[Watanabe, Y., Allen, J. D., Wrapp, D., McLellan, J. S., & Crispin, M. (2020). Site-specific glycan analysis of the SARS-CoV-2 spike. Science (New York, N.Y.), 369(6501), 330–333.](https://doi.org/10.1126/science.abb9983)
-   12. []()
+   12. [Wang, Q., Zhang, Y., Wu, L., Niu, S., Song, C., Zhang, Z., Lu, G., Qiao, C., Hu, Y., Yuen, K. Y., Wang, Q., Zhou, H., Yan, J., & Qi, J. (2020). Structural and Functional Basis of SARS-CoV-2 Entry by Using Human ACE2. Cell, 181(4), 894–904.e9.](https://doi.org/10.1016/j.cell.2020.03.045)
    13. []()
    14. []()
+   15. []()
    
       
 
