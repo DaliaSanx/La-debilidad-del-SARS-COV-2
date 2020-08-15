@@ -6,7 +6,7 @@
 
 ## <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/globe-512.png" alt="drawing" width="50"/> COVID-19, ¿Porqué es tan importante el tratamiento?
 
-- A finales de 2019, un nuevo coronavirus fue identificado caomo la causa de un brote de neumonía en Wuhan, una ciudad en la provincia de Hubei en China. Se transmitió rápidamente, llevando a la Organización Mundial de la Salud (OMS) a declarar un estado de **emergencia** a finales de Enero 2020, y definirlo como una pandemia en Marzo 2020. El virus causante de la enfermedad COVID-19 es designado en inglés ***Severe Acute Respiratory Syndrome Coronavirus 2*** (SARS-CoV-2).
+- A finales de 2019, un nuevo coronavirus fue identificado caomo la causa de un brote de neumonía en Wuhan, una ciudad en la provincia de Hubei en China. Se transmitió rápidamente, llevando a la Organización Mundial de la Salud (OMS) a declarar un estado de **emergencia** a finales de Enero 2020, y definirlo como una **pandemia** en Marzo 2020. El virus causante de la enfermedad COVID-19 es designado en inglés ***Severe Acute Respiratory Syndrome Coronavirus 2*** (SARS-CoV-2).
 
 - Es de rápido contagio, por lo que, en pocas semanas llegó a todo el mundo, causando **desde infecciones asintomáticas hasta casos graves, en los que la última consencuencia fue la muerte.**
 
@@ -17,37 +17,50 @@
 - En el mundo, hasta el 12 de Agosto de 2020, **han habido aproximadamente 226,264 casos nuevos reportados**, y hasta ese mismo día **se estimaron 4,918 muertes.** 
 México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexicano publicó que hasta ese día habían 492,522 casos confirmados y 53,929 defunciones.**
 
+
+
 ## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> **¿COVID-19? ¿SARS-CoV-2? ¿Coronavirus?**
 
    - Seguramente te es familiiar escuchar muchas formas de llamarle a este virus y sus manifestaciones clínicas, pero es importante que queden claras las diferencias entre un término y otro para poder comprender toda la información y sobre todo, transmitir exactamente el mensaje que quieres al hablar del virus con quien desees.
       - **Coronavirus:** Se trata del género de virus que pertenecen a la familia *Coronaviridae*, dentro de ellos también se encuentra el género *Torovirus*, todos ellos comparten en su estructura la presencia de una *"Corona"*, formada por glucoproteínas que se proyectan desde su envoltura al exterior. Pueden infectar a varias especies.
-      - **SARS-COV-2:** De las siglas en inglés de ***Severe Acute Respiratory Syndrome Coronavirus 2*** Es un virus que pertenece al género Coronavirus de la familia *Coronaviridae*, específicamente a la generación *beta*, junto con el **SARS-COV-1, MERS-COV**. Este virus está asociado directamente a infecciones Respiratorias y gastrointestinales.
+      - **SARS-CoV-2:** De las siglas en inglés de ***Severe Acute Respiratory Syndrome Coronavirus 2*** Es un virus que pertenece al género Coronavirus de la familia *Coronaviridae*, específicamente a la generación *beta*, junto con el **SARS-CoV, MERS-CoV**. Este virus está asociado directamente a infecciones Respiratorias y gastrointestinales.
       - **COVID-19:** Siglas en inglés para *"Coronavirus disease 2019"*, se trata de las manifestaciones clínicas provocadas por la infección por SARS-CoV-2, es como tal, la enfermedad. 
+
+
 
 ## <img src="https://images.vexels.com/media/users/3/193093/isolated/preview/83f23fec75cc6474e19d33a4bec06d7d-covid-19-iconos-de-virus-by-vexels.png" alt="Coronavirus" width="50"/> Coronavirus, diferentes agentes, diferentes especies.
 
-- 
-
+- Desde que comenzaron los brotes de COVID-19, hemos tratado de buscar al culpable, ¿Un animal?¿Vendrá de las gallinas?, lo cierto es que se han generado miles de teorías, las cuales, en el peor de los casos, han terminado por llevar a las personas a dañar a Pangolines y Murciélagos.
+- En la familia *Coronaviridae*, los dos géneros pueden infectar tanto a humanos como animales, usualmente no se mezclarían, ya que los virus tienen un tropismo específico, sin embargo, cuando una especie convive muy cerca de otra, por ejemplo, humanos con cerdos, gallinas e incluso camellos, los virus pueden cambiar su información genética con la finalidad de tener siempre un hospedero, independiendemente de la especie.
+- A partir de análisis filogenéticos, se ha determinado que el SARS-CoV-2 es sumamente similar al SARS-CoV, comparte 50% de su información genética con el MERS-CoV y 88% con un SARS-CoV que infecta a murciélagos. Ahora, la pregunta es Si es tan parecido al virus que infecta a los murciélagos ¿Ellos lo transmitieron al humano? 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/coronavirus%20tipos.jpeg?raw=true" alt="Coronavirus types" width="600"/>
+- 
 
 
 ## <img src="https://image.flaticon.com/icons/png/512/1756/1756507.png" alt="RNA" width="50"/> El ciclo viral.
 
-- El SARS-CoV2 es un virus RNA monocatenario en sentido positivo, lo cual quiere decir que **puede ser traducido inmediatamente por la maquinaria de la célula hospedera.** Dentro de la clasificación de la familia *Coronaviridae*, pertenece al grupo *B*
+- El SARS-CoV2 es un virus RNA monocatenario en sentido positivo, lo cual quiere decir que **puede ser traducido inmediatamente por la maquinaria de la célula hospedera.** 
 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Estructura%20viral.jpg?raw=true" alt="VIRAL st" width="700"/>
-   - Representación del Coronavirus SARS-COV-2 y sus proteínas esctructurales.
-   
+ - Representación del Coronavirus SARS-CoV-2 y sus proteínas esctructurales.
+
+---
+
 **Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el ciclo de replicación de este virus.**
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Ciclo%20Viral%20BR.png?raw=true" alt="VIRAL CICLE" width="600"/>
 
    1. Primero, el virus logra entrar al cuerpo humano a través de pequeñas gotas de saliva o secreciones de una persona contaminada, estas logran ingresar al aparato respiratorio.
    2. Una vez que se encuentran en las vías respiratorias, los virus logran llegar a las células alveolares, ubicadas en los pulmones, estas tienen un receptor muy importante: El nombre del receptor es **ECA 2**, o en inglés **ACE 2**, su nombre son las iniciales de *"Receptor de la Enzima Convertidora de Angiotensina"*, se encuentra en:
-    1. **Neumocitos tipo 2** o células epiteliales alveolares tipo 2, que se encuentran en los pulmones.
-    2. Intestino delgado
-    3. Endotelio
-   3. Cuando el virus logra reconocer su receptor mediante la proteína S, necesita pasar por dos cortes realizados con enzimas humanas para lograr ingresar a la célula.
-
+       1. **Neumocitos tipo 2** o células epiteliales alveolares tipo 2, que se encuentran en los pulmones.
+       2. Intestino delgado
+       3. Endotelio
+   3. Cuando el virus logra reconocer su receptor mediante la proteína S, necesita pasar por dos cortes realizados con enzimas humanas para lograr ingresar a la célula. Más especificaciones se explicarán en la sección dedicada a esta proteína.
+   4. Después de ingresar a la célula hospedera, pasa por un porceso de traducción de su RNA, lo que permite obtener su propio complejo de replicación y transcripción.
+   5. En este punto, el virus está listo para replicarse y traducirse, para así obtener todo el material para su ensamblado.
+   6. Después de su ensamblaje, quedan listos **viriones**, los cuales son infectants y pueden ya ser liberados por la célula para seguir infectando otras.
+  
+  
+  
 ## <img src="https://cdn.icon-icons.com/icons2/2239/PNG/512/virus_coronavirus_covid_covid_icon_134829.png" alt="VIRUS" width="50"/> Proteínas virales.
 
 - El virus codifica para varias proteínas, todas distintas y específicas; divididas en estructurales y no estructurales. Es importante mencionar que **la variabilidad del virus radica en las proteínas estructurales, ya que son las menos conservadas**, es decir, cuando varíen, es probable que un fármaco dirigido a ellas deje de ser efectivo. En este segmento, describiremos las proteínas más relevantes para el desarrollo de terapéuticos.
@@ -77,7 +90,9 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 - ***Cada una de estas proteínas es como si fuera un hueso de nuestro esqueleto, tal vez no todos sean elementales, pero alterando el funcionamiento de al menos una, desestabilizaría al virus.***
 
-## <img src="https://img.icons8.com/plasticine/2x/pill.png" alt="Pill" width="50"/> Objetivos terapéuticos, encontrando el punto débil del SARS-COV-2
+
+
+## <img src="https://img.icons8.com/plasticine/2x/pill.png" alt="Pill" width="50"/> Objetivos terapéuticos, encontrando el punto débil del SARS-CoV-2
 
 ### La proteína *"Spike"*
    - La entrada del coronavirus en las células huésped está mediada por la glicoproteína de pico transmembrana (S) que forma homotrímeros que sobresalen de la superficie viral 
@@ -104,9 +119,13 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 ## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> ¿Porqué estas proteinas y no otras?
 
 
+
+
 ## <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/512x512/plain/eye.png" alt="Eye" width="50"/> Datos curiosos
 
 ---
+
+
 ## <img src="https://png.pngtree.com/png-vector/20190801/ourlarge/pngtree-magnifying-glass-icon-png-image_1644200.jpg" alt="Eye" width="50"/> Glosario
 
 #### Blanco terapéutico
@@ -119,8 +138,11 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 #### Replicación
 #### RNA Polimerasa
 #### Spike
+#### Tropismo
 #### Variable
 ---
+
+
 ## El Equipo, *Las CoronaAmigas*
 
 #### Dalia Sánchez, Oaxaca.
