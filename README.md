@@ -101,21 +101,17 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 
 ### PLPro (Proteasa tipo Papaína)
+   - Forma parte de las proteínas no estructurales del coronavirus ya que no forma parte de la estructura del SARS-CoV-2 pero siguen siendo muy importantes tanto como la proteína estructural (SPIKE). 
    - Funciones: 
-   1. Da lugar a proteínas necesarias para la replicación viral (Nsp1, Nsp2, Nsp3). 
-   2. Revierte eventos de ISGilación en la célula hospedera, por lo que **también es responsable de la respuesta inmune innata**.
+   1. La PLPro tiene como característica **hacer 3 cortes en el genoma viral.** Por consiguiente, se forman tres proteínas no estructurales (Nsp1, Nsp2 y Nsp3) que son necesarias para la replicación viral del coronavirus.  
+   2. Revierte eventos de ISGilación en la célula hospedera, por lo que **también es responsable de la respuesta inmune innata**, esto lo logra haciendo cortes en proteínas del hospedero humano, a la ubiquitina y la ISG15. 
    - Esta enzima es esencial para procesar las poliproteínas que se traducen del ARN viral. **Inhibir la actividad de esta enzima bloquearía la replicación viral.**
 **La unión de drogas podría inhibir la producción de otras proteínas virales importantes para su replicación.**
   
-  <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="200"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="400"/>
-    
-    La PLPro (proteasa tipo papaína) forma parte de las proteínas no estructurales del coronavirus ya que no forma parte de la estructura del SARS-CoV-2 pero siguen siendo muy importantes tanto como la proteína estructural (SPIKE). 
-¿Qué es una proteasa? Las proteasas o peptidasas son enzimas que rompen enlaces peptídicos de las proteínas. Gracias a estas proteínas es posible que el virus siga con su transcripción del ARN, transducción y síntesis de proteínas víricas. Dando así como resultado a procesos y modificaciones de proteínas para su replicación y finalmente puedan infectar al hospedero. 
-La PLPro tiene como característica hacer 3 cortes en el genoma viral. Por lo consiguiente, se forman tres proteínas no estructurales (Nsp1, Nsp2 y Nsp3) que son necesarias para la replicación viral del coronavirus. 
-Asimismo, la PLPro tiene la capacidad de hacer cortes en proteínas del hospedero humano, a la ubiquitina y la ISG15. Estas proteínas inhiben la respuesta inmunologíca de los seres humanos. 
+  <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="150"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="400"/>
+
 ¿Por qué es tan importante esta proteína?
 El SARS-CoV-2 usa deubiquitinasas y deISGilasas que invierten estas modificaciones y antagonizan la señalización del huésped.
-
     
   - Se dice que esta proteína tiene forma de mano, por lo que en el esquema está señalizado de la siguiente manera:
       1. Rojo: Dedos
@@ -128,12 +124,13 @@ El SARS-CoV-2 usa deubiquitinasas y deISGilasas que invierten estas modificacion
 
 - Se cuentan con varias opciones para desarrollar un tratamiento, las cuales son:
    - Moléculas unidas al virus.
-   - Moléculas inhibidoras de las Nsp.
-   - Inhibición de la entrada del virus a la célula hospedera.
+   - **Moléculas inhibidoras de las Nsp.**
+   - **Inhibición de la entrada del virus a la célula hospedera.**
    - Inhibición de las helicasas y el complejo de replicación del virus.
 - Para lograr desarrollar un tratamiento, es elemental conocer cuales son los puntos débiles del agente, cuales convienen más, ya sea por tener como consecuencia un efecto prolongado o definitivo. Sin embargo, lo más importante es que este tratamiento no resulte dañino para quien lo reciba, ya que podrían arriesgarse e incluso perderse más funciones de las que se preservarían contrarrestando la enfermedad.  
 Existen proteínas humanas que podrían ser inhibidas para evitar tener células susceptibles a la infección, por ejemplo, **actuar sobre el receptor ECA 2** tendría un efecto directo en El Sistema Renina-Angiotensina, el cual **está encargado de regular la presión arterial mediante el control de electrolitos en la sangre**, incluso, hay fármacos Antihipertensivos que tienen como objetivo directo estos receptores. **El resultado entonces, podría ser una disminución de la tensión arterial sistémica, y a menor presión, menor perfusión de los órganos.**
-- Otro ejemplo de una proteína humana que puede ser blanco de terapéuticos es **TMPRSS2**, anteriormente se describieron sus funciones realizando una segunda fase del procesamiento de la glucoproteína Spike para permitir el ingreso del virus a la célula hospedera. Curiosamente, se desconocen aún las funciones fisiológicas de ella, interferir en las funciones de esta proteína puede tener como consecuencia eventos completamente inesperados, que podrían ser fatales.
+- Otro ejemplo de una proteína humana que puede ser blanco de terapéuticos es **TMPRSS2**, anteriormente se describieron sus funciones realizando una segunda fase del procesamiento de la glucoproteína Spike para permitir el ingreso del virus a la célula hospedera. Curiosamente, se desconocen aún las funciones fisiológicas de ella, interferir en las funciones de esta proteína puede tener como consecuencia eventos completamente inesperados, que podrían ser fatales
+- Dentro de los diferentes tratamientos, seleccionamos como blanco  las **molécuals inhibidoras de la Nsp, y de la entrada del virus a la célula hospedera**, es decir, una proteína no estructural, la PLpro y una estructural, la glucoproteína de envoltura *Spike*; con dos blancos con funciones distintas para el virus, se logra afectar tanto su maquinaria de replicación, como la facilidad con la que logra ingresar a la célula hospedera, esto haría mucho más difícil la infección, y en caso de que esta lograra suceder, la replicación estaría inmediatamente afectada.
 
 
 ## <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/512x512/plain/eye.png" alt="Eye" width="50"/> Datos curiosos
@@ -150,6 +147,7 @@ Existen proteínas humanas que podrían ser inhibidas para evitar tener células
 #### Neumocitos
 #### Papaína
 #### Proteasa
+   -Las proteasas o peptidasas son enzimas que rompen enlaces peptídicos de las proteínas. Gracias a estas proteínas es posible que el virus siga con su transcripción del ARN, transducción y síntesis de proteínas víricas. Dando así como resultado a procesos y modificaciones de proteínas para su replicación y finalmente puedan infectar al hospedero. 
 #### Replicación
 #### RNA Polimerasa
 #### Sistema Renina-Angiotensina-Aldosterona
