@@ -134,25 +134,25 @@ TMPRSS2 es una serin proteasa transmembranal tipo 2, tiene amplia expresión en 
    Hay otra alternativa, atacar la subunidad S2 de spike, esta es más conservada y por lo tanto es más estable que S1 lo que ayuda a que la terapia funcione, en este caso se busca que una vez ocurrida la unión a ACE2 inhibir que se fusione con la membrana y con ello impedir la entrada a la célula. 
 
 ### PLPro (Proteasa tipo Papaína)
-   - Forma parte de las proteínas no estructurales del coronavirus ya que no forma parte de la estructura del SARS-CoV-2 pero siguen siendo muy importantes tanto como la proteína estructural (SPIKE). 
+   - Forma parte de las proteínas no estructurales del coronavirus pero sigue siendo muy importante tanto como la proteína estructural (SPIKE). 
    - Funciones: 
    1. La PLPro tiene como característica **hacer 3 cortes en el genoma viral.** Por consiguiente, se forman tres proteínas no estructurales (Nsp1, Nsp2 y Nsp3) que son necesarias para la replicación viral del coronavirus.  
-   2. Revierte eventos de ISGilación en la célula hospedera, por lo que **también es responsable de la respuesta inmune innata**, esto lo logra haciendo cortes en proteínas del hospedero humano, a la ubiquitina y la ISG15. 
+   2. Revierte eventos de ISGilación en la célula hospedera, por lo que **también es responsable de la respuesta inmune innata**, esto lo logra haciendo cortes en proteínas del hospedero humano, a la ubiquitina y la ISG15. Si hiciéramos una analogía, podríamos decir que el cuerpo humano es como una escuela, en la que solamente pueden entrar y permanecer quienes tienen una identificación visible, cuando una célula es infectada por un virus, hay mecanismos que "le quitarían la identificación" a las células, y permiten encender una respuesta que tiene como fin "sacar a las células de la escuela". Este es el proceso que se ve bloqueado por la célula, no hay un llamado a otras células del sistema inmune para encender la respuesta antiviral.
    - Esta enzima es esencial para procesar las poliproteínas que se traducen del ARN viral. **Inhibir la actividad de esta enzima bloquearía la replicación viral.**
 **La unión de drogas podría inhibir la producción de otras proteínas virales importantes para su replicación.**
- <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/PapainaBiorender.jpeg?raw=true" alt="SPIKE" width="600"/>
- 
+ <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/PapainaBiorender.jpeg?raw=true" alt="SPIKE" width="600"/> 
 
 #### ¿Por qué es tan importante esta proteína?
-El SARS-CoV-2 usa deubiquitinasas y deISGilasas que invierten estas modificaciones y antagonizan la señalización del huésped.
+
+- Al ser la encargada de liberar las proteínas necesarias para el proceso de replicación viral, inhibirla sería como tal evitar una multiplicación del virus y por consiguiente su liberación hacia el torrente sanguíneo e incluso, disminuir su capacidad de infección. Cuando esta proteína deja de bloquear la cascada de señalización en la que las células pretenden liberar citocinas que se encargan de llamar a otras células, puede comenzar de verdad una cadena de señalización intra y extracelular para atacar a las células infectadas.
   
    <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="400"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="200"/>
   
   - Se dice que esta proteína tiene forma de mano, por lo que en el esquema está señalizado de la siguiente manera:
-      1. Rojo: Dedos
-      2. Azul: Palma (sitio activo)
-      3. Amarillo: pulgar
-      4. Naranja:  dominios de tipo ubiquitina N-terminal (Ubl)
+   1. Rojo: Dedos
+   2. Azul: Palma (sitio activo)
+   3. Amarillo: pulgar
+   4. Naranja:  dominios de tipo ubiquitina N-terminal (Ubl)
 
 
 ## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> ¿Porqué estas proteinas y no otras?
@@ -209,13 +209,18 @@ Existen proteínas humanas que podrían ser inhibidas para evitar tener células
 
 ## El Equipo, *Las CoronaAmigas*
 
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Corona-Amigas.png?raw=true" alt="drawing" width="200"/>  
+
+
+
 #### Dalia Sánchez, Oaxaca.
-   - ¡Hola! Mi nombre es Dalia, soy estudiante de la Lic. en Medicina y Cirugía de la Universidad Autónoma Benito Juárez de Oaxaca, me considero catadora de las mejores comidas, fan #1 de todos mis amigos, tengo una gran pasión por mi carrera y la programación. Esperamos disfrutes de esta página y no dudes en investigar todo lo que se te venga a la mente. Para mí y mis compañeras, trabajar juntas a pesaar de no conocernos fue muy divertido, Clubes de Ciencia México ha sido curiosamente la forma en la que he conocido a grandes amigos.
+   - ¡Hola! Mi nombre es Dalia, soy estudiante de la Lic. en Medicina y Cirugía de la Universidad Autónoma Benito Juárez de Oaxaca, me considero catadora de las mejores comidas, yogui en mis tiempos libres y fan #1 de todos mis amigos, tengo una gran pasión por mi carrera y la programación. Esperamos disfrutes de esta página y no dudes en investigar todo lo que se te venga a la mente. Para mí y mis compañeras, trabajar juntas a pesaar de no conocernos fue muy divertido, Clubes de Ciencia México ha sido curiosamente la forma en la que he conocido a grandes amigos.
 #### Adamary Hernández, Morelos.
    - ¡Hola!, mi nombre es Adamary Michelle Hernandez Pineda, soy estudiante de la Licenciatura en ciencias básicas y aplicadas con área terminal en bioquímica y biología molecular de la Universidad Autónoma del Estado de Morelos (UAEM).  Aunque la ciencia es una parte fundamental en mi vida también me gusta mucho leer, la música y las películas.
 Estar en este challenge fue una experiencia increíble porque conocí a personas muy inteligentes, amables, divertidas y dedicadas: Dalia, Daisy y Lesslie, juntas diseñamos e hicimos este sitio web, esperamos que te guste, que aprendas y que te generé tal curiosidad para animarte a buscar más información y adentrarte más en el ámbito científico.
 #### Daisy Venancio, Tlaxcala.
-   - Estudiante de la linceciatura en Quiímico Fármaco Biólogo de la Benemérita Universidad Autónoma de Puebla
+   - ¡Hola! Mi nombre es Daisy Venancio soy estudiante de la licenciatura en Químico Farmacobiológo de la Benemérita Universidad Autónoma de Puebla. Me gusta mucho mi carrera y la relación tan grande que tiene con la ciencia ya que la investigación es crucial para desarrollar nuevos fármacos o ayudar al medio ambiente entre otros, así como la importancia de dar un buen diagnóstico en el área clínica. 
+Me gusta mucho salir a caminar y observar paisajes, también me gusta la cocina, de ahí nace el amor.
 
 #### Lesslie García, Yucatán.
    - ¡Hola! Mi nombre es Lesslie pero me llaman “Less”. Soy estudiante de la Lic. de Químico Farmacéutico Biólogo de la Universidad Autónoma de Yucatán. Decidí estudiar esta bellísima carrera por identificarme como amante de la ciencia. ¡Espero esta página te ayude a entender e interpretar el gran mundo de la ciencia!
