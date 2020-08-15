@@ -99,13 +99,23 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
    
    - Estudios con microscopía crioelectrónica de la proteína spike (s) y su interacción con el receptor celular ACE2 han demostrado que la unión del receptor induce la disociación de la subunidad S1, lo que lleva a la subunidad S2 a pasar de un estado de pre-fusión metaestable a un estado de posfusión con mayor estabilidad que permite la fusión de membranas, por lo que la unión al receptor ACE2 es un paso inicial crítico para el ingreso del SARS-CoV a las células diana.
 
-<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE.jpg?raw=true" alt="SPIKE subunidades" width="800"/>     
 
-<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/SPIKE%20residuos.jpeg?raw=true" alt="Residuos" width="600"/>
+#### Subunidades
+- Las proteínas CoV S son proteínas de fusión virales típicas de clase I, y se requiere la escisión de proteasa para la activación del potencial de fusión de la proteína S.
+- Spike (S) comprende dos subunidades funcionales responsables de:
+      - Subunidad S1: Unión al receptor de la célula huésped (RBD). 
+      - Subunidad S2: Fusión de las membranas viral y celular.
+      
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE.jpg?raw=true" alt="SPIKE subunidades" width="600"/>       
 
+Los diferentes coronavirus usan dominios distintos dentro de la subunidad S1 para reconocer una variedad de receptores de unión y entrada, dependiendo de la especie viral. 
+- La subunidad distal S1 también contribuye a la estabilización del estado de prefusión de la subunidad S2 anclada a la membrana que contiene la maquinaria de fusión.Se ha propuesto que esta escisión activa la proteína para la fusión de membranas a través de cambios conformacionales irreversibles extensos.
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/primer%20corte.jpeg?raw=true" alt="Primer corte" width="600"/>
 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/Segundo%20corte.jpeg?raw=true" alt="Segundo corte" width="600"/>
+
+
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/SPIKE%20residuos.jpeg?raw=true" alt="Residuos" width="600"/>
 
 ### PLPro (Proteasa tipo Papaína)
    - Forma parte de las proteínas no estructurales del coronavirus ya que no forma parte de la estructura del SARS-CoV-2 pero siguen siendo muy importantes tanto como la proteína estructural (SPIKE). 
