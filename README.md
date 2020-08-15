@@ -31,10 +31,11 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 ## <img src="https://images.vexels.com/media/users/3/193093/isolated/preview/83f23fec75cc6474e19d33a4bec06d7d-covid-19-iconos-de-virus-by-vexels.png" alt="Coronavirus" width="50"/> Coronavirus, diferentes agentes, diferentes especies.
 
 - Desde que comenzaron los brotes de COVID-19, hemos tratado de buscar al culpable, ¿Un animal?¿Vendrá de las gallinas?, lo cierto es que se han generado miles de teorías, las cuales, en el peor de los casos, han terminado por llevar a las personas a dañar a Pangolines y Murciélagos.
-- En la familia *Coronaviridae*, los dos géneros pueden infectar tanto a humanos como animales, usualmente no se mezclarían, ya que los virus tienen un tropismo específico, sin embargo, cuando una especie convive muy cerca de otra, por ejemplo, humanos con cerdos, gallinas e incluso camellos, los virus pueden cambiar su información genética con la finalidad de tener siempre un hospedero, independiendemente de la especie.
-- A partir de análisis filogenéticos, se ha determinado que el SARS-CoV-2 es sumamente similar al SARS-CoV, comparte 50% de su información genética con el MERS-CoV y 88% con un SARS-CoV que infecta a murciélagos. Ahora, la pregunta es Si es tan parecido al virus que infecta a los murciélagos ¿Ellos lo transmitieron al humano? 
+- En la familia *Coronaviridae*, los dos géneros pueden infectar tanto a humanos como animales, usualmente no se mezclarían, ya que los virus tienen un tropismo específico, sin embargo, cuando una especie convive muy cerca de otra, por ejemplo, humanos con cerdos, gallinas e incluso camellos, los virus pueden cambiar su información genética recombinándola con la finalidad de tener siempre un hospedero, independiendemente de la especie.
+- A partir de análisis filogenéticos, se ha determinado que el SARS-CoV-2 es sumamente similar al SARS-CoV, comparte 50% de su información genética con el MERS-CoV y 88% con un SARS-CoV que infecta a murciélagos. Ahora, la pregunta es, si es tan parecido al virus que infecta a los murciélagos ¿Ellos lo transmitieron al humano? 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/coronavirus%20tipos.jpeg?raw=true" alt="Coronavirus types" width="600"/>
-- 
+- [Un estudio](https://doi.org/10.1002/jmv.25682) demostró que el SARS-CoV-2 pudo haberse originado a partir de la recombinación entre un Coronavirus infectante de muricélagos con otro virus desconocido, logrando una variación en la glucoproteína de envoltura Spike, permitiendo que esta reconociera como receptoras a las células humanas
+
 
 
 ## <img src="https://image.flaticon.com/icons/png/512/1756/1756507.png" alt="RNA" width="50"/> El ciclo viral.
@@ -43,8 +44,6 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Estructura%20viral.jpg?raw=true" alt="VIRAL st" width="700"/>
  - Representación del Coronavirus SARS-CoV-2 y sus proteínas esctructurales.
-
----
 
 **Para hayar las rutas terapéuticas más viables, es elemental que conozcamos el ciclo de replicación de este virus.**
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Ciclo%20Viral%20BR.png?raw=true" alt="VIRAL CICLE" width="600"/>
@@ -141,11 +140,15 @@ Existen proteínas humanas que podrían ser inhibidas para evitar tener células
 ## <img src="https://png.pngtree.com/png-vector/20190801/ourlarge/pngtree-magnifying-glass-icon-png-image_1644200.jpg" alt="Eye" width="50"/> Glosario
 
 #### Blanco terapéutico
-#### Conservada
+   - Molécula o proteína con una forma específica sobre la que el fármaco actúa.
 #### Endotelio
+   - Monocapa que separa los tejidos de la sangre. Es una de las capas de los vasos, interactúa directamente con la sangre.
 #### Maquinaria celular
+   - Conjunto de herramientas (enzimas fundamentalmente) que la célula utiliza en todos sus procesos celulares, desde la división celular hasta la apoptosis o muerte celular, pasando por todos los procesos metabólicos.
 #### Neumocitos
+   - Son denominadas también como células alveolares, los neumocitos corresponden a las células que tapizan las paredes de los alveolos pulmonares.
 #### Papaína
+   - Enzima proteolítica que cataliza la separación de las proteínas por hidrólisis.
 #### Proteasa
    -Las proteasas o peptidasas son enzimas que rompen enlaces peptídicos de las proteínas. Gracias a estas proteínas es posible que el virus siga con su transcripción del ARN, transducción y síntesis de proteínas víricas. Dando así como resultado a procesos y modificaciones de proteínas para su replicación y finalmente puedan infectar al hospedero. 
 #### Replicación
@@ -184,9 +187,10 @@ Estar en este challenge fue una experiencia increíble porque conocí a personas
    10.[Lan, J., Ge, J., Yu, J., Shan, S., Zhou, H., Fan, S., Zhang, Q., Shi, X., Wang, Q., Zhang, L., & Wang, X. (2020). Structure of the SARS-CoV-2 spike receptor-binding domain bound to the ACE2 receptor. Nature, 581(7807), 215–220.](https://doi.org/10.1038/s41586-020-2180-5)
    11.[Watanabe, Y., Allen, J. D., Wrapp, D., McLellan, J. S., & Crispin, M. (2020). Site-specific glycan analysis of the SARS-CoV-2 spike. Science (New York, N.Y.), 369(6501), 330–333.](https://doi.org/10.1126/science.abb9983)
    12. [Wang, Q., Zhang, Y., Wu, L., Niu, S., Song, C., Zhang, Z., Lu, G., Qiao, C., Hu, Y., Yuen, K. Y., Wang, Q., Zhou, H., Yan, J., & Qi, J. (2020). Structural and Functional Basis of SARS-CoV-2 Entry by Using Human ACE2. Cell, 181(4), 894–904.e9.](https://doi.org/10.1016/j.cell.2020.03.045)
-   13. []()
+   13. [Ji, W., Wang, W., Zhao, X., Zai, J., & Li, X. (2020). Cross-species transmission of the newly identified coronavirus 2019-nCoV. Journal of medical virology, 92(4), 433–440. ](https://doi.org/10.1002/jmv.25682)
    14. []()
    15. []()
+   16. []()
    
       
 
