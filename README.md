@@ -76,7 +76,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
    - Su característica es que es **poco procesiva**, significa que sola no es infectante, **necesita de dos proteínas no estructurales, (7 y 8)** para ser veloz y funcionar.
 
 ### <img src="https://cdn1.iconfinder.com/data/icons/health-fitness-3/24/muscles_gym_training_protein-512.png" alt="Protein struct" width="50"/> **Proteínas estructurales**
-  1. <img src="https://image.flaticon.com/icons/png/512/2750/2750762.png" alt="SPIKE" width="50"/> **Glucoproteína de la envoltura** ***Spike***
+  1. <img src="https://image.flaticon.com/icons/png/512/2750/2750762.png" alt="SPIKE" width="50"/> **Glucoproteína** ***Spike***
       - Su peso es de 180 kD.
       - Es importante profundizar en la descripción de esta proteína, ya que es el blanco principal de múltiples fármacos que se están desarrollando en diferentes partes del mundo, está conformada por:
       - 3 proteínas iguales, por lo tanto, estamos describiendo a un **homotrímero**
@@ -94,7 +94,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 ## <img src="https://img.icons8.com/plasticine/2x/pill.png" alt="Pill" width="50"/> Objetivos terapéuticos, encontrando el punto débil del SARS-CoV-2
 
-### Glucoproteína de la envoltura, La proteína *"Spike"*
+### Glucoproteína, La proteína *"Spike"*
    - La entrada del coronavirus en las células huésped está mediada por la glicoproteína de pico transmembrana (S) que forma homotrímeros que sobresalen de la superficie viral, es un proceso complejo que requiere de la unión al receptor y el procesamiento proteolítico de la glicoproteína de pico transmembrana (S) para promover la fusión virus-célula. El SARS-CoV y otros coronavirus relacionados con el SARS interactúan directamente con la enzima convertidora de angiotensina 2 (ACE2) para ingresar a las células diana. Los coronavirus utilizan la glicoproteína de pico homotrimérica (S) compuesta por dos subunidades funcionales en cada monómero de pico, la subunidad S1 responsable de la unión al receptor y la subunidad S2, responsable de la fusión de la membrana, la glicoproteína S sobresale de la superficie viral para unirse a la enzima ACE2, tal unión desencadena una cascada de eventos que conduce a la fusión entre las membranas celular y viral.
    
    - Estudios con microscopía crioelectrónica de la proteína spike (s) y su interacción con el receptor celular ACE2 han demostrado que la unión del receptor induce la disociación de la subunidad S1, lo que lleva a la subunidad S2 a pasar de un estado de pre-fusión metaestable a un estado de posfusión con mayor estabilidad que permite la fusión de membranas, por lo que la unión al receptor ACE2 es un paso inicial crítico para el ingreso del SARS-CoV a las células diana.
@@ -190,9 +190,9 @@ Existen proteínas humanas que podrían ser inhibidas para evitar tener células
 #### Proteasa
    - Las proteasas o peptidasas son enzimas que rompen enlaces peptídicos de las proteínas. Gracias a estas proteínas es posible que el virus siga con su transcripción del ARN, transducción y síntesis de proteínas víricas. Dando así como resultado a procesos y modificaciones de proteínas para su replicación y finalmente puedan infectar al hospedero. 
 #### Replicación
-   - 
+   - Proceso en el que el material genético de una célula se duplica, obteniendo dos copias exactas de un fragmento o bien, toda la información de la célula.
 #### RNA Polimerasa
-   - 
+   - La ARN polimerasa es un complejo enzimático que se encarga de mediar la polimerización de una molécula de ARN, partiendo de una secuencia de ADN que usa como molde, es decir, del resultado de la replicación, una de estas cadenas de DNA necesita pasar a RNA, y lo logra gracias a esta enzima.
 #### Secuencia conservada
    - Secuencia de aminoácidos en un polipéptido o en nucleótidos de material genético que no ha cambiado o que ha cambiado muy poco durante un período evolutivo.
 #### Sistema Renina-Angiotensina-Aldosterona
@@ -211,7 +211,7 @@ Existen proteínas humanas que podrían ser inhibidas para evitar tener células
 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Corona-Amigas.png?raw=true" alt="drawing" width="200"/>  
 
-
+- Somos cuatro mujeres de diferentes partes de México, fue muy divertido trabajar, pertenecemos a diferentes áreas de la ciencia y eso nos permitió crear una página completa, enriquecida, y sobre todo amigable para todo el que desee leerla. Esperamos que esta página te sea de mucha utilidad, y sobre todo, que te incite a buscar más y más, recuerda que siempre hay un lugar para ti en la ciencia.
 
 #### Dalia Sánchez, Oaxaca.
    - ¡Hola! Mi nombre es Dalia, soy estudiante de la Lic. en Medicina y Cirugía de la Universidad Autónoma Benito Juárez de Oaxaca, me considero catadora de las mejores comidas, yogui en mis tiempos libres y fan #1 de todos mis amigos, tengo una gran pasión por mi carrera y la programación. Esperamos disfrutes de esta página y no dudes en investigar todo lo que se te venga a la mente. Para mí y mis compañeras, trabajar juntas a pesaar de no conocernos fue muy divertido, Clubes de Ciencia México ha sido curiosamente la forma en la que he conocido a grandes amigos.
@@ -240,10 +240,7 @@ Me gusta mucho salir a caminar y observar paisajes, también me gusta la cocina,
    11. [Watanabe, Y., Allen, J. D., Wrapp, D., McLellan, J. S., & Crispin, M. (2020). Site-specific glycan analysis of the SARS-CoV-2 spike. Science (New York, N.Y.), 369(6501), 330–333.](https://doi.org/10.1126/science.abb9983)
    12. [Wang, Q., Zhang, Y., Wu, L., Niu, S., Song, C., Zhang, Z., Lu, G., Qiao, C., Hu, Y., Yuen, K. Y., Wang, Q., Zhou, H., Yan, J., & Qi, J. (2020). Structural and Functional Basis of SARS-CoV-2 Entry by Using Human ACE2. Cell, 181(4), 894–904.e9.](https://doi.org/10.1016/j.cell.2020.03.045)
    13. [Ji, W., Wang, W., Zhao, X., Zai, J., & Li, X. (2020). Cross-species transmission of the newly identified coronavirus 2019-nCoV. Journal of medical virology, 92(4), 433–440. ](https://doi.org/10.1002/jmv.25682)
-   14. []()
-   15. []()
-   16. []()
-   
+    
       
 
 ```
