@@ -122,6 +122,13 @@ TMPRSS2 es una serin proteasa transmembranal tipo 2, tiene amplia expresión en 
 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/SPIKE%20residuos.jpeg?raw=true" alt="Residuos" width="600"/>
 
+#### ¿Porqué fijarnos en *Spike*?
+   1. Estudios con microscopía crioelectrónica de la proteína spike (s) y su interacción con el receptor celular ACE2 han demostrado que el SARS-CoV-2 interactúa directamente con la enzima convertidora de angiotensina 2 (ACE2) para ingresar a las células diana, por lo que la unión al receptor ACE2 es un paso inicial crítico para el ciclo viral.
+   2. Está expuesta a la superficie y media la entrada en las células huésped, es el objetivo principal de los anticuerpos neutralizantes (Abs) tras la infección.
+   3. Las superficies con una densidad inusualmente alta de glicanos, como es el caso de spike, pueden permitir el reconocimiento inmunológico. Comprender la glicosilación de picos virales recombinantes puede revelar características fundamentales de la biología viral y guiar las estrategias de diseño de vacunas. 
+   Se busca como terapéutica antiviral abordar la proteína spike del coronavirus ya que es la encargada de unirse a la ACE2 para posteriormente con otras pasos pueda ingresar a la célula huésped, la idea es atacar el dominio S1, en este se encuentra el RBD (dominio de unión al receptor) el cual será el encargado de que se una a ACE2 del humano, si se bloquea el dominio se evita esa unión con el receptor, el inconveniente encontrado es que S1 posee cambios o mutaciones lo cual causaría que el fármaco solo funcione por cierto tiempo y el virus evada la respuesta inmune. RBD también se está usando para la producción de vacunas que inducirá respuesta de células T y anticuerpos neutralizantes altamente potentes.
+   Hay otra alternativa, atacar la subunidad S2 de spike, esta es más conservada y por lo tanto es más estable que S1 lo que ayuda a que la terapia funcione, en este caso se busca que una vez ocurrida la unión a ACE2 inhibir que se fusione con la membrana y con ello impedir la entrada a la célula. 
+
 ### PLPro (Proteasa tipo Papaína)
    - Forma parte de las proteínas no estructurales del coronavirus ya que no forma parte de la estructura del SARS-CoV-2 pero siguen siendo muy importantes tanto como la proteína estructural (SPIKE). 
    - Funciones: 
@@ -132,7 +139,7 @@ TMPRSS2 es una serin proteasa transmembranal tipo 2, tiene amplia expresión en 
  <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/PapainaBiorender.jpeg?raw=true" alt="SPIKE" width="600"/>
  
 
-¿Por qué es tan importante esta proteína?
+#### ¿Por qué es tan importante esta proteína?
 El SARS-CoV-2 usa deubiquitinasas y deISGilasas que invierten estas modificaciones y antagonizan la señalización del huésped.
   
    <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="400"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="200"/>
@@ -157,11 +164,9 @@ Existen proteínas humanas que podrían ser inhibidas para evitar tener células
 - Dentro de los diferentes tratamientos, seleccionamos como blanco  las **molécuals inhibidoras de la Nsp, y de la entrada del virus a la célula hospedera**, es decir, una proteína no estructural, la PLpro y una estructural, la glucoproteína de envoltura *Spike*; con dos blancos con funciones distintas para el virus, se logra afectar tanto su maquinaria de replicación, como la facilidad con la que logra ingresar a la célula hospedera, esto haría mucho más difícil la infección, y en caso de que esta lograra suceder, la replicación estaría inmediatamente afectada.
 
 
-## <img src="" alt="" width="50"/> ¿Te gustaría saber que pruebas clínicas relacionadas al tratamiento de COVID-19 se están llevando a cabo?
+## <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/512x512/plain/eye.png" alt="Eye" width="50"/> ¿Te gustaría saber que pruebas clínicas relacionadas al tratamiento de COVID-19 se están llevando a cabo?
    - En [esta página](https://www.clinicaltrials.gov/ct2/results?cond=COVID-19) puedes encontrar las pruebas clínicas que se están llevando a cabo alrededor del mundo, si se encuentran reclutando voluntarios, están activas o aún no lo están.
 
-
-## <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/512x512/plain/eye.png" alt="Eye" width="50"/> Datos curiosos
 
 ---
 
