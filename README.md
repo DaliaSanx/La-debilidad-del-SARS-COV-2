@@ -20,9 +20,9 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 ## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> **¿COVID-19? ¿SARS-COV-2? ¿Coronavirus?**
 
    - Seguramente te es familiiar escuchar muchas formas de llamarle a este virus y sus manifestaciones clínicas, pero es importante que queden claras las diferencias entre un término y otro para poder comprender toda la información y sobre todo, transmitir exactamente el mensaje que quieres al hablar del virus con quien desees.
-    - **Coronavirus:** Se trata del género de virus que pertenecen a la familia *Coronaviridae*, dentro de ellos también se encuentra el género *Torovirus*, todos ellos comparten en su estructura la presencia de una *"Corona"*, formada por glucoproteínas que se proyectan desde su envoltura al exterior. Pueden infectar a varias especies.
-    - **SARS-COV-2:** De las siglas en inglés de ***Severe Acute Respiratory Syndrome Coronavirus 2*** Es un virus que pertenece al género Coronavirus de la familia *Coronaviridae*, específicamente a la generación *beta*, junto con el **SARS-COV-1, MERS-COV**. Este virus está asociado directamente a infecciones Respiratorias y gastrointestinales.
-    - **COVID-19:** 
+      - **Coronavirus:** Se trata del género de virus que pertenecen a la familia *Coronaviridae*, dentro de ellos también se encuentra el género *Torovirus*, todos ellos comparten en su estructura la presencia de una *"Corona"*, formada por glucoproteínas que se proyectan desde su envoltura al exterior. Pueden infectar a varias especies.
+      - **SARS-COV-2:** De las siglas en inglés de ***Severe Acute Respiratory Syndrome Coronavirus 2*** Es un virus que pertenece al género Coronavirus de la familia *Coronaviridae*, específicamente a la generación *beta*, junto con el **SARS-COV-1, MERS-COV**. Este virus está asociado directamente a infecciones Respiratorias y gastrointestinales.
+      - **COVID-19:** 
 
 ## <img src="https://images.vexels.com/media/users/3/193093/isolated/preview/83f23fec75cc6474e19d33a4bec06d7d-covid-19-iconos-de-virus-by-vexels.png" alt="Coronavirus" width="50"/> Coronavirus, diferentes agentes, diferentes especies.
 
@@ -138,7 +138,12 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
    4. Walls, A.C., Park,Y-J., Tortorici, M.A., Wall, A., McGuire, A.T., & Veesler, D.. (2020, marzo 09). Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein. Cell, 181, pp. 281-292.
    5. Wrapp, D., Wang, N., Corbet, K.S., Goldsmith, J.A., Hsieh, C., Abiona, O., Graham, B.S., & McLellan, J.S.. (2020, marzo 13). Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science, 367, pp. 1260-1263
    6. [Dtme.ranm.es](http://dtme.ranm.es/dtm/ver.php?id=62928&cual=0)
-   7. 
+   7. Palmore, T. (2020). Coronavirus disease 2019 (COVID-19): Infection control in health care and home settings. Retrieved 14 August 2020, from [link](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19-infection-control-in-health-care-and-home-settings?search=covid-19&source=search_result&selectedTitle=10~150&usage_type=default&display_rank=9#H2563747119)
+   8. McIntosh, K. (2020). Coronavirus disease 2019 (COVID-19): Clinical features. Retrieved 14 August 2020, from [link](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19-clinical-features?search=covid-19&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1)
+   9.
+   10.
+   11.
+   
       
 
 ```
