@@ -32,9 +32,9 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 - Desde que comenzaron los brotes de COVID-19, hemos tratado de buscar al culpable, ¿Un animal?¿Vendrá de las gallinas?, lo cierto es que se han generado miles de teorías, las cuales, en el peor de los casos, han terminado por llevar a las personas a dañar a Pangolines y Murciélagos.
 - En la familia *Coronaviridae*, los dos géneros pueden infectar tanto a humanos como animales, usualmente no se mezclarían, ya que los virus tienen un tropismo específico, sin embargo, cuando una especie convive muy cerca de otra, por ejemplo, humanos con cerdos, gallinas e incluso camellos, los virus pueden cambiar su información genética recombinándola con la finalidad de tener siempre un hospedero, independiendemente de la especie.
-- A partir de análisis filogenéticos, se ha determinado que el SARS-CoV-2 es sumamente similar al SARS-CoV, comparte 50% de su información genética con el MERS-CoV y 88% con un SARS-CoV que infecta a murciélagos. Ahora, la pregunta es, si es tan parecido al virus que infecta a los murciélagos ¿Ellos lo transmitieron al humano? 
+- A partir de análisis filogenéticos, se ha determinado que el SARS-CoV-2 es sumamente similar al SARS-CoV, comparte 50% de su información genética con el MERS-CoV y 88% con un SARS-CoV que infecta a murciélagos, es con este último, con quien el SARS-CoV-2 comparte un ancestro, algo así como decir que son "primos". Ahora, la pregunta es, si es tan parecido al virus que infecta a los murciélagos ¿Ellos lo transmitieron al humano? 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/coronavirus%20tipos.jpeg?raw=true" alt="Coronavirus types" width="600"/>
-- Un estudio demostró que el SARS-CoV-2 pudo haberse originado a partir de la recombinación entre un Coronavirus infectante de muricélagos con otro virus desconocido, logrando una variación en la glucoproteína de envoltura Spike, permitiendo que esta reconociera como receptoras a las células humanas, 
+- Un estudio demostró que el SARS-CoV-2 pudo haberse originado a partir de la recombinación entre un Coronavirus infectante de muricélagos con otro virus desconocido, logrando una variación en la glucoproteína de envoltura Spike, permitiendo que esta reconociera como receptoras a las células humanas, a esto se le conoce como *zoonosis.* 
 
 
 
@@ -166,6 +166,8 @@ Existen proteínas humanas que podrían ser inhibidas para evitar tener células
 #### Spike
    - 
 #### Tropismo
+   - 
+#### Zoonosis
    - 
 
 ---
