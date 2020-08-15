@@ -17,21 +17,23 @@
 - En el mundo, hasta el 12 de Agosto de 2020, **han habido aproximadamente 226,264 casos nuevos reportados**, y hasta ese mismo día **se estimaron 4,918 muertes.** 
 México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexicano publicó que hasta ese día habían 492,522 casos confirmados y 53,929 defunciones.**
 
-## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> **¿COVID-19? ¿SARS-COV-2? ¿Coronavirus?**
+## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> **¿COVID-19? ¿SARS-CoV-2? ¿Coronavirus?**
 
    - Seguramente te es familiiar escuchar muchas formas de llamarle a este virus y sus manifestaciones clínicas, pero es importante que queden claras las diferencias entre un término y otro para poder comprender toda la información y sobre todo, transmitir exactamente el mensaje que quieres al hablar del virus con quien desees.
       - **Coronavirus:** Se trata del género de virus que pertenecen a la familia *Coronaviridae*, dentro de ellos también se encuentra el género *Torovirus*, todos ellos comparten en su estructura la presencia de una *"Corona"*, formada por glucoproteínas que se proyectan desde su envoltura al exterior. Pueden infectar a varias especies.
       - **SARS-COV-2:** De las siglas en inglés de ***Severe Acute Respiratory Syndrome Coronavirus 2*** Es un virus que pertenece al género Coronavirus de la familia *Coronaviridae*, específicamente a la generación *beta*, junto con el **SARS-COV-1, MERS-COV**. Este virus está asociado directamente a infecciones Respiratorias y gastrointestinales.
-      - **COVID-19:** 
+      - **COVID-19:** Siglas en inglés para *"Coronavirus disease 2019"*, se trata de las manifestaciones clínicas provocadas por la infección por SARS-CoV-2, es como tal, la enfermedad. 
 
 ## <img src="https://images.vexels.com/media/users/3/193093/isolated/preview/83f23fec75cc6474e19d33a4bec06d7d-covid-19-iconos-de-virus-by-vexels.png" alt="Coronavirus" width="50"/> Coronavirus, diferentes agentes, diferentes especies.
+
+- 
 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/coronavirus%20tipos.jpeg?raw=true" alt="Coronavirus types" width="600"/>
 
 
 ## <img src="https://image.flaticon.com/icons/png/512/1756/1756507.png" alt="RNA" width="50"/> El ciclo viral.
 
-- El SARS-COV2 es un virus RNA monocatenario en sentido positivo, lo cual quiere decir que **puede ser traducido inmediatamente por la maquinaria de la célula hospedera.** Dentro de la clasificación de la familia *Coronaviridae*, pertenece al grupo *B*
+- El SARS-CoV2 es un virus RNA monocatenario en sentido positivo, lo cual quiere decir que **puede ser traducido inmediatamente por la maquinaria de la célula hospedera.** Dentro de la clasificación de la familia *Coronaviridae*, pertenece al grupo *B*
 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Estructura%20viral.jpg?raw=true" alt="VIRAL st" width="700"/>
    - Representación del Coronavirus SARS-COV-2 y sus proteínas esctructurales.
@@ -44,6 +46,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
     1. **Neumocitos tipo 2** o células epiteliales alveolares tipo 2, que se encuentran en los pulmones.
     2. Intestino delgado
     3. Endotelio
+   3. Cuando el virus logra reconocer su receptor mediante la proteína S, necesita pasar por dos cortes realizados con enzimas humanas para lograr ingresar a la célula.
 
 ## <img src="https://cdn.icon-icons.com/icons2/2239/PNG/512/virus_coronavirus_covid_covid_icon_134829.png" alt="VIRUS" width="50"/> Proteínas virales.
 
