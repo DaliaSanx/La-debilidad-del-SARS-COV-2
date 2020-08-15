@@ -76,7 +76,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
    - Su característica es que es **poco procesiva**, significa que sola no es infectante, **necesita de dos proteínas no estructurales, (7 y 8)** para ser veloz y funcionar.
 
 ### <img src="https://cdn1.iconfinder.com/data/icons/health-fitness-3/24/muscles_gym_training_protein-512.png" alt="Protein struct" width="50"/> **Proteínas estructurales**
-  1. <img src="https://image.flaticon.com/icons/png/512/2750/2750762.png" alt="SPIKE" width="50"/> **Proteína** ***Spike***
+  1. <img src="https://image.flaticon.com/icons/png/512/2750/2750762.png" alt="SPIKE" width="50"/> **Glucoproteína de la envoltura** ***Spike***
       - Su peso es de 180 kD.
       - Es importante profundizar en la descripción de esta proteína, ya que es el blanco principal de múltiples fármacos que se están desarrollando en diferentes partes del mundo, está conformada por:
       - 3 proteínas iguales, por lo tanto, estamos describiendo a un **homotrímero**
@@ -95,9 +95,12 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 ## <img src="https://img.icons8.com/plasticine/2x/pill.png" alt="Pill" width="50"/> Objetivos terapéuticos, encontrando el punto débil del SARS-CoV-2
 
 ### Glucoproteína de la envoltura, La proteína *"Spike"*
-   - La entrada del coronavirus en las células huésped está mediada por la glicoproteína de pico transmembrana (S) que forma homotrímeros que sobresalen de la superficie viral 
+   - La entrada del coronavirus en las células huésped está mediada por la glicoproteína de pico transmembrana (S) que forma homotrímeros que sobresalen de la superficie viral, es un proceso complejo que requiere de la unión al receptor y el procesamiento proteolítico de la glicoproteína de pico transmembrana (S) para promover la fusión virus-célula. El SARS-CoV y otros coronavirus relacionados con el SARS interactúan directamente con la enzima convertidora de angiotensina 2 (ACE2) para ingresar a las células diana. Los coronavirus utilizan la glicoproteína de pico homotrimérica (S) compuesta por dos subunidades funcionales en cada monómero de pico, la subunidad S1 responsable de la unión al receptor y la subunidad S2, responsable de la fusión de la membrana, la glicoproteína S sobresale de la superficie viral para unirse a la enzima ACE2, tal unión desencadena una cascada de eventos que conduce a la fusión entre las membranas celular y viral. 
 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE%20PYMOL.jpg?raw=true" alt="SPIKE" width="600"/>
+
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/SPIKE%20residuos.jpeg?raw=true" alt="SPIKEres" width="600"/>
+
 
 
 ### PLPro (Proteasa tipo Papaína)
