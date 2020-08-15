@@ -81,7 +81,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
       - Es importante profundizar en la descripción de esta proteína, ya que es el blanco principal de múltiples fármacos que se están desarrollando en diferentes partes del mundo, está conformada por:
       - 3 proteínas iguales, por lo tanto, estamos describiendo a un **homotrímero**
        - Cada subunidad tiene 2 porciones distintas, **la subinidad 1 y la subunidad 2.**
-        - **Subunidad 1:** Su responsabilidad es **unirse al receptor ECA 2**.
+        - **Subunidad 1:** También llamada RBD, su responsabilidad es **unirse al receptor ECA 2**.
         - **Subunidad 2:** Está encargada de **penetrar en la célula hospedera**
    <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/SPIKE.jpg?raw=true" alt="SPIKE" width="800"/>     
         
@@ -118,7 +118,14 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 
 ## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> ¿Porqué estas proteinas y no otras?
 
-
+- Se cuentan con varias opciones para desarrollar un tratamiento, las cuales son:
+   - Moléculas unidas al virus.
+   - Moléculas inhibidoras de las Nsp.
+   - Inhibición de la entrada del virus a la célula hospedera.
+   - Inhibición de las helicasas y el complejo de replicación del virus.
+- Para lograr desarrollar un tratamiento, es elemental conocer cuales son los puntos débiles del agente, cuales convienen más, ya sea por tener como consecuencia un efecto prolongado o definitivo. Sin embargo, lo más importante es que este tratamiento no resulte dañino para quien lo reciba, ya que podrían arriesgarse e incluso perderse más funciones de las que se preservarían contrarrestando la enfermedad.  
+Existen proteínas humanas que podrían ser inhibidas para evitar tener células susceptibles a la infección, por ejemplo, **actuar sobre el receptor ECA 2** tendría un efecto directo en El Sistema Renina-Angiotensina, el cual **está encargado de regular la presión arterial mediante el control de electrolitos en la sangre**, incluso, hay fármacos Antihipertensivos que tienen como objetivo directo estos receptores. **El resultado entonces, podría ser una disminución de la tensión arterial sistémica, y a menor presión, menor perfusión de los órganos.**
+- Otro ejemplo de una proteína humana que puede ser blanco de terapéuticos es **TMPRSS2**, anteriormente se describieron sus funciones realizando una segunda fase del procesamiento de la glucoproteína Spike para permitir el ingreso del virus a la célula hospedera. Curiosamente, se desconocen aún las funciones fisiológicas de ella, interferir en las funciones de esta proteína puede tener como consecuencia eventos completamente inesperados, que podrían ser fatales.
 
 
 ## <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/512x512/plain/eye.png" alt="Eye" width="50"/> Datos curiosos
@@ -137,6 +144,7 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 #### Proteasa
 #### Replicación
 #### RNA Polimerasa
+#### Sistema Renina-Angiotensina-Aldosterona
 #### Spike
 #### Tropismo
 #### Variable
@@ -146,10 +154,11 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
 ## El Equipo, *Las CoronaAmigas*
 
 #### Dalia Sánchez, Oaxaca.
-   - ¡Hola! Mi nombre es Dalia, soy estudiante de la Lic. en Medicina y Cirugía de la Universidad Autónoma Benito Juárez de Oaxaca, me considero catadora de las mejores comidas, fan #1 de todos mis amigos, tengo una gran pasión por mi carrera y la programación. Esperamos disfrutes de esta página y no dudes en investigar todo lo que se te venga a la mente.
+   - ¡Hola! Mi nombre es Dalia, soy estudiante de la Lic. en Medicina y Cirugía de la Universidad Autónoma Benito Juárez de Oaxaca, me considero catadora de las mejores comidas, fan #1 de todos mis amigos, tengo una gran pasión por mi carrera y la programación. Esperamos disfrutes de esta página y no dudes en investigar todo lo que se te venga a la mente. Para mí y mis compañeras, trabajar juntas a pesaar de no conocernos fue muy divertido, Clubes de Ciencia México ha sido curiosamente la forma en la que he conocido a grandes amigos.
 #### Adamary Hernández, Morelos.
-   - 
-#### Daysi Venancio, Tlaxcala.
+   - ¡Hola!, mi nombre es Adamary Michelle Hernandez Pineda, soy estudiante de la Licenciatura en ciencias básicas y aplicadas con área terminal en bioquímica y biología molecular de la Universidad Autónoma del Estado de Morelos (UAEM).  Aunque la ciencia es una parte fundamental en mi vida también me gusta mucho leer, la música y las películas.
+Estar en este challenge fue una experiencia increíble porque conocí a personas muy inteligentes, amables, divertidas y dedicadas: Dalia, Daisy y Lesslie, juntas diseñamos e hicimos este sitio web, esperamos que te guste, que aprendas y que te generé tal curiosidad para animarte a buscar más información y adentrarte más en el ámbito científico.
+#### Daisy Venancio, Tlaxcala.
    - Estudiante de la linceciatura en Quiímico Fármaco Biólogo de la Benemérita Universidad Autónoma de Puebla
 
 #### Lesslie García, Yucatán.
@@ -165,9 +174,12 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
    6. [Dtme.ranm.es](http://dtme.ranm.es/dtm/ver.php?id=62928&cual=0)
    7. Palmore, T. (2020). Coronavirus disease 2019 (COVID-19): Infection control in health care and home settings. Retrieved 14 August 2020, from [link](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19-infection-control-in-health-care-and-home-settings?search=covid-19&source=search_result&selectedTitle=10~150&usage_type=default&display_rank=9#H2563747119)
    8. McIntosh, K. (2020). Coronavirus disease 2019 (COVID-19): Clinical features. Retrieved 14 August 2020, from [link](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19-clinical-features?search=covid-19&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1)
-   9.
-   10.
-   11.
+   9. [Walls, A. C., Park, Y. J., Tortorici, M. A., Wall, A., McGuire, A. T., & Veesler, D. (2020). Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein. Cell, 181(2), 281–292.e6. ](https://doi.org/10.1016/j.cell.2020.02.058)
+   10.[Lan, J., Ge, J., Yu, J., Shan, S., Zhou, H., Fan, S., Zhang, Q., Shi, X., Wang, Q., Zhang, L., & Wang, X. (2020). Structure of the SARS-CoV-2 spike receptor-binding domain bound to the ACE2 receptor. Nature, 581(7807), 215–220.](https://doi.org/10.1038/s41586-020-2180-5)
+   11.[Watanabe, Y., Allen, J. D., Wrapp, D., McLellan, J. S., & Crispin, M. (2020). Site-specific glycan analysis of the SARS-CoV-2 spike. Science (New York, N.Y.), 369(6501), 330–333.](https://doi.org/10.1126/science.abb9983)
+   12. []()
+   13. []()
+   14. []()
    
       
 
