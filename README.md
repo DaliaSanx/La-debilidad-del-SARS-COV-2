@@ -6,7 +6,7 @@
 
 ## <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/globe-512.png" alt="drawing" width="50"/> COVID-19, ¿Por qué es tan importante el tratamiento?
 
-- A finales de 2019, un nuevo coronavirus fue identificado caomo la causa de un brote de neumonía en Wuhan, una ciudad en la provincia de Hubei en China. Se transmitió rápidamente, llevando a la Organización Mundial de la Salud (OMS) a declarar un estado de **emergencia** a finales de Enero 2020, y definirlo como una **pandemia** en Marzo 2020. El virus causante de la enfermedad COVID-19 es designado en inglés ***Severe Acute Respiratory Syndrome Coronavirus 2*** (SARS-CoV-2).
+- A finales de 2019, un nuevo coronavirus fue identificado como la causa de un brote de neumonía en Wuhan, una ciudad en la provincia de Hubei en China. Se transmitió rápidamente, llevando a la Organización Mundial de la Salud (OMS) a declarar un estado de **emergencia** a finales de Enero 2020, y definirlo como una **pandemia** en Marzo 2020. El virus causante de la enfermedad COVID-19 es designado en inglés ***Severe Acute Respiratory Syndrome Coronavirus 2*** (SARS-CoV-2).
 
 - Es de rápido contagio, por lo que, en pocas semanas llegó a todo el mundo, causando **desde infecciones asintomáticas hasta casos graves, en los que la última consencuencia fue la muerte.**
 
@@ -212,7 +212,7 @@ Existen proteínas humanas que podrían ser inhibidas para evitar tener células
 - Somos cuatro mujeres de diferentes partes de México, fue muy divertido trabajar, pertenecemos a diferentes áreas de la ciencia y eso nos permitió crear una página completa, enriquecida, y sobre todo amigable para todo el que desee leerla. Esperamos que esta página te sea de mucha utilidad, y sobre todo, que te incite a buscar más y más, recuerda que siempre hay un lugar para ti en la ciencia.
 
 #### Dalia Sánchez, Oaxaca.
-   - ¡Hola! Mi nombre es Dalia, soy estudiante de la Lic. en Medicina y Cirugía de la Universidad Autónoma Benito Juárez de Oaxaca, me considero catadora de las mejores comidas, yogui en mis tiempos libres y fan #1 de todos mis amigos, tengo una gran pasión por mi carrera y la programación. Esperamos disfrutes de esta página y no dudes en investigar todo lo que se te venga a la mente. Para mí y mis compañeras, trabajar juntas a pesaar de no conocernos fue muy divertido, Clubes de Ciencia México ha sido curiosamente la forma en la que he conocido a grandes amigos.
+   - ¡Hola! Mi nombre es Dalia, soy estudiante de la Lic. en Medicina y Cirugía de la Universidad Autónoma Benito Juárez de Oaxaca, me considero catadora de las mejores comidas, yogui en mis tiempos libres y fan #1 de todos mis amigos, tengo una gran pasión por mi carrera y la programación. Esperamos disfrutes de esta página y no dudes en investigar todo lo que se te venga a la mente. Para mí y mis compañeras, trabajar juntas a pesar de no conocernos fue muy divertido, Clubes de Ciencia México ha sido curiosamente la forma en la que he conocido a grandes amigos.
 #### Adamary Hernández, Morelos.
    - ¡Hola!, mi nombre es Adamary Michelle Hernandez Pineda, soy estudiante de la Licenciatura en ciencias básicas y aplicadas con área terminal en bioquímica y biología molecular de la Universidad Autónoma del Estado de Morelos (UAEM).  Aunque la ciencia es una parte fundamental en mi vida también me gusta mucho leer, la música y las películas.
 Estar en este challenge fue una experiencia increíble porque conocí a personas muy inteligentes, amables, divertidas y dedicadas: Dalia, Daisy y Lesslie, juntas diseñamos e hicimos este sitio web, esperamos que te guste, que aprendas y que te generé tal curiosidad para animarte a buscar más información y adentrarte más en el ámbito científico.
@@ -221,7 +221,8 @@ Estar en este challenge fue una experiencia increíble porque conocí a personas
 Me gusta mucho salir a caminar y observar paisajes, también me gusta la cocina, de ahí nace el amor.
 
 #### Lesslie García, Yucatán.
-   - ¡Hola! Mi nombre es Lesslie pero me llaman “Less”. Soy estudiante de la Lic. de Químico Farmacéutico Biólogo de la Universidad Autónoma de Yucatán. Decidí estudiar esta bellísima carrera por identificarme como amante de la ciencia. ¡Espero esta página te ayude a entender e interpretar el gran mundo de la ciencia!
+
+  - ¡Hola! Mi nombre es Lesslie pero me llaman “Less”. Soy estudiante de la Lic. de Químico Farmacéutico Biólogo de la Universidad Autónoma de Yucatán. Decidí estudiar esta bellísima carrera por identificarme como amante de la ciencia. ¡Espero esta página te ayude a entender e interpretar el gran mundo de la ciencia!
 ---
 ## <img src="https://img.icons8.com/plasticine/2x/books.png" alt="book" width="50"/> Referencias
 
