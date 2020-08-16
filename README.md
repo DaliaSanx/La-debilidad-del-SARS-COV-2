@@ -55,9 +55,9 @@ México no ha sido la excepción, el 11 de Agosto de 2020, **el gobierno Mexican
        2. Intestino delgado
        3. Endotelio
    3. Cuando el virus logra reconocer su receptor mediante la proteína S, necesita pasar por dos cortes realizados con enzimas humanas para lograr ingresar a la célula. Más especificaciones se explicarán en la sección dedicada a esta proteína.
-   4. Después de ingresar a la célula hospedera, pasa por un porceso de traducción de su RNA, lo que permite obtener su propio complejo de replicación y transcripción.
+   4. Después de ingresar a la célula hospedera, pasa por un proceso de traducción de su RNA, lo que permite obtener su propio complejo de replicación y transcripción.
    5. En este punto, el virus está listo para replicarse y traducirse, para así obtener todo el material para su ensamblado.
-   6. Después de su ensamblaje, quedan listos **viriones**, los cuales son infectants y pueden ya ser liberados por la célula para seguir infectando otras.
+   6. Después de su ensamblaje, quedan listos **viriones**, los cuales son infectantes y pueden ya ser liberados por la célula para seguir infectando otras.
   
   
   
@@ -230,15 +230,14 @@ Me gusta mucho salir a caminar y observar paisajes, también me gusta la cocina,
    2. Lan, J., Ge, J., Yu, J., Shan, S., Zhou, H., Fan, S., ... & Wang, X. (2020). Structure of the SARS-CoV-2 spike receptor-binding domain bound to the ACE2 receptor. Nature, 581(7807), 215-220.
    3. Ou, X., Liu, Y., Lei, X., Li, P., Mi, D., Ren, L., Guo, L., Guo, R., Chen, T., Hu, J., Xiang, Z., Mu, Z., Chen, X., Chen, J., Hu, K., Jin, Q., Wang, J., y Qian, Z. 2020. Characterization of spike glycoprotein of SARS-CoV-2 on virus entry and its immune cross-reactivity with SARS-CoV. Nature communications 11: 1620
    4. Walls, A.C., Park,Y-J., Tortorici, M.A., Wall, A., McGuire, A.T., & Veesler, D.. (2020, marzo 09). Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein. Cell, 181, pp. 281-292.
-   5. Wrapp, D., Wang, N., Corbet, K.S., Goldsmith, J.A., Hsieh, C., Abiona, O., Graham, B.S., & McLellan, J.S.. (2020, marzo 13). Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science, 367, pp. 1260-1263
+   5. [Wrapp, D., Wang, N., Corbet, K.S., Goldsmith, J.A., Hsieh, C., Abiona, O., Graham, B.S., & McLellan, J.S.. (2020, marzo 13). Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science, 367, pp. 1260-1263](https://doi.org/10.1016/j.cell.2020.02.058)
    6. [Dtme.ranm.es](http://dtme.ranm.es/dtm/ver.php?id=62928&cual=0)
    7. Palmore, T. (2020). Coronavirus disease 2019 (COVID-19): Infection control in health care and home settings. Retrieved 14 August 2020, from [link](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19-infection-control-in-health-care-and-home-settings?search=covid-19&source=search_result&selectedTitle=10~150&usage_type=default&display_rank=9#H2563747119)
    8. McIntosh, K. (2020). Coronavirus disease 2019 (COVID-19): Clinical features. Retrieved 14 August 2020, from [link](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19-clinical-features?search=covid-19&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1)
-   9. [Walls, A. C., Park, Y. J., Tortorici, M. A., Wall, A., McGuire, A. T., & Veesler, D. (2020). Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein. Cell, 181(2), 281–292.e6. ](https://doi.org/10.1016/j.cell.2020.02.058)
-   10. [Lan, J., Ge, J., Yu, J., Shan, S., Zhou, H., Fan, S., Zhang, Q., Shi, X., Wang, Q., Zhang, L., & Wang, X. (2020). Structure of the SARS-CoV-2 spike receptor-binding domain bound to the ACE2 receptor. Nature, 581(7807), 215–220.](https://doi.org/10.1038/s41586-020-2180-5)
-   11. [Watanabe, Y., Allen, J. D., Wrapp, D., McLellan, J. S., & Crispin, M. (2020). Site-specific glycan analysis of the SARS-CoV-2 spike. Science (New York, N.Y.), 369(6501), 330–333.](https://doi.org/10.1126/science.abb9983)
-   12. [Wang, Q., Zhang, Y., Wu, L., Niu, S., Song, C., Zhang, Z., Lu, G., Qiao, C., Hu, Y., Yuen, K. Y., Wang, Q., Zhou, H., Yan, J., & Qi, J. (2020). Structural and Functional Basis of SARS-CoV-2 Entry by Using Human ACE2. Cell, 181(4), 894–904.e9.](https://doi.org/10.1016/j.cell.2020.03.045)
-   13. [Ji, W., Wang, W., Zhao, X., Zai, J., & Li, X. (2020). Cross-species transmission of the newly identified coronavirus 2019-nCoV. Journal of medical virology, 92(4), 433–440. ](https://doi.org/10.1002/jmv.25682)
+   9. [Lan, J., Ge, J., Yu, J., Shan, S., Zhou, H., Fan, S., Zhang, Q., Shi, X., Wang, Q., Zhang, L., & Wang, X. (2020). Structure of the SARS-CoV-2 spike receptor-binding domain bound to the ACE2 receptor. Nature, 581(7807), 215–220.](https://doi.org/10.1038/s41586-020-2180-5)
+   10. [Watanabe, Y., Allen, J. D., Wrapp, D., McLellan, J. S., & Crispin, M. (2020). Site-specific glycan analysis of the SARS-CoV-2 spike. Science (New York, N.Y.), 369(6501), 330–333.](https://doi.org/10.1126/science.abb9983)
+   11. [Wang, Q., Zhang, Y., Wu, L., Niu, S., Song, C., Zhang, Z., Lu, G., Qiao, C., Hu, Y., Yuen, K. Y., Wang, Q., Zhou, H., Yan, J., & Qi, J. (2020). Structural and Functional Basis of SARS-CoV-2 Entry by Using Human ACE2. Cell, 181(4), 894–904.e9.](https://doi.org/10.1016/j.cell.2020.03.045)
+   12. [Ji, W., Wang, W., Zhao, X., Zai, J., & Li, X. (2020). Cross-species transmission of the newly identified coronavirus 2019-nCoV. Journal of medical virology, 92(4), 433–440. ](https://doi.org/10.1002/jmv.25682)
     
       
 
