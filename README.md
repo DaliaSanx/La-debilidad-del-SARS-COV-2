@@ -1,5 +1,7 @@
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/LOGO_CLUBES.png?raw=true" alt="drawing" width="200"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Corona-Amigas.png?raw=true" alt="drawing" width="200"/>  
 
+---
+
 # Proteínas Blanco, Rutas terapéuticas en el tratamiento de COVID-19
 
 ---
@@ -215,12 +217,15 @@ Existen proteínas humanas que podrían ser inhibidas para evitar tener células
 
 ---
 
+##### Todas las imágenes utilizadas como parte del desarrollo del tema fueron realizados por el equipo en las plataformas de [BioRender](https://biorender.com/) y [PyMOL](https://pymol.org/)
+
+---
 
 ## El Equipo, *Las CoronaAmigas*
 
-<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Corona-Amigas.png?raw=true" alt="drawing" width="200"/>  
+<img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/Track3.png?raw=true" alt="track 3" width="200"/>  <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/Corona-Amigas.png?raw=true" alt="drawing" width="200"/>   
 
-- Somos cuatro mujeres de diferentes partes de México, fue muy divertido trabajar, pertenecemos a diferentes áreas de la ciencia y eso nos permitió crear una página completa, enriquecida, y sobre todo amigable para todo el que desee leerla. Esperamos que esta página te sea de mucha utilidad, y sobre todo, que te incite a buscar más y más, recuerda que siempre hay un lugar para ti en la ciencia.
+- Somos cuatro mujeres de diferentes partes de México, **participantes en Clubes de Ciencia México edición Challenge**, específicamente en el track **De moléclulas a terapéuticos: Cómo enfrentar a los virus con cienccia y tecnología**, fue muy divertido trabajar, pertenecemos a diferentes áreas de la ciencia y eso nos permitió crear una página completa, enriquecida, y sobre todo amigable para todo el que desee leerla. Esperamos que esta página te sea de mucha utilidad, y sobre todo, que te incite a buscar más y más, recuerda que siempre hay un lugar para ti en la ciencia. Agradecemos a todo el equipo de Clubes de Ciencia México, esta experiencia ha sido increíble, y esperamos poder participar en siguientes ediciones. La juventud es el futuro de la ciencia.
 
 ---
 
@@ -236,13 +241,13 @@ Estar en este challenge fue una experiencia increíble porque conocí a personas
 ---
 
 #### Daisy Venancio, Tlaxcala.
-   - ¡Hola! Mi nombre es Lesslie pero me llaman “Less”. Soy estudiante de la Lic. de Químico Farmacéutico Biólogo de la Universidad Autónoma de Yucatán. Decidí estudiar esta bellísima carrera por identificarme como amante de la ciencia. Quiero que el mundo sepa lo importante que es la ciencia para la vida. Mi experiencia al poder tener la oportunidad de estar en Clubes de Ciencia en México ha sido incleíble, conoces a gente igual de apasionadas por la ciencia y te hacen sentir en familia. ¡Espero esta página te ayude a entender e interpretar el gran mundo de la ciencia!
+   - ¡Hola! Mi nombre es Daisy Venancio soy estudiante de la licenciatura en Químico Farmacobiológo de la Benemérita Universidad Autónoma de Puebla. Me gusta mucho mi carrera y la relación tan grande que tiene con la ciencia ya que la investigación es crucial para desarrollar nuevos fármacos o ayudar al medio ambiente entre otros, así como la importancia de dar un buen diagnóstico en el área clínica. 
+Me gusta mucho salir a caminar y observar paisajes, también me gusta la cocina, de ahí nace el amor.
 
 ---
 
 #### Lesslie García, Yucatán.
-   - ¡Hola! Mi nombre es Lesslie pero me llaman “Less”. Soy estudiante de la Lic. de Químico Farmacéutico Biólogo de la Universidad Autónoma de Yucatán. Decidí estudiar esta bellísima carrera por identificarme como amante de la ciencia. ¡Espero esta página te ayude a entender e interpretar el gran mundo de la ciencia!
-
+   - ¡Hola! Mi nombre es Lesslie pero me llaman “Less”. Soy estudiante de la Lic. de Químico Farmacéutico Biólogo de la Universidad Autónoma de Yucatán. Decidí estudiar esta bellísima carrera por identificarme como amante de la ciencia. Quiero que el mundo sepa lo importante que es la ciencia para la vida. Mi experiencia al poder tener la oportunidad de estar en Clubes de Ciencia en México ha sido incleíble, conoces a gente igual de apasionadas por la ciencia y te hacen sentir en familia. ¡Espero esta página te ayude a entender e interpretar el gran mundo de la ciencia!
 ---
 
 ## <img src="https://img.icons8.com/plasticine/2x/books.png" alt="book" width="50"/> Referencias
