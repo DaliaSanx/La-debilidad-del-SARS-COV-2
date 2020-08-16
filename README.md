@@ -196,13 +196,11 @@ Existen proteínas humanas que podrían ser inhibidas para evitar tener células
 #### Secuencia conservada
    - Secuencia de aminoácidos en un polipéptido o en nucleótidos de material genético que no ha cambiado o que ha cambiado muy poco durante un período evolutivo.
 #### Sistema Renina-Angiotensina-Aldosterona
-   - 
-#### Spike
-   - 
+   - Se trata de un sistema presente en mamíferos, que a través de la regulación de secreción de hormonas, controla la presión arterial sistémica, logra modificar la excreción o retención de electrolitos sanguíneos para mantener la presión osmótica en los vasos.
 #### Tropismo
-   - 
+   - En la virología, habla de la afinidad que tienen los virus por una u otra célula, sus receptores específicos.
 #### Zoonosis
-   - 
+   - Enfermedades infecciones transmisibles desde animales vertebrados y el ser humano.
 
 ---
 
