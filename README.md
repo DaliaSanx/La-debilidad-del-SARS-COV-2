@@ -247,7 +247,10 @@ Me gusta mucho salir a caminar y observar paisajes, también me gusta la cocina,
 ---
 
 #### Lesslie García, Yucatán.
-   - ¡Hola! Mi nombre es Lesslie pero me llaman “Less”. Soy estudiante de la Lic. de Químico Farmacéutico Biólogo de la Universidad Autónoma de Yucatán. Decidí estudiar esta bellísima carrera por identificarme como amante de la ciencia. Quiero que el mundo sepa lo importante que es la ciencia para la vida. Mi experiencia al poder tener la oportunidad de estar en Clubes de Ciencia en México ha sido incleíble, conoces a gente igual de apasionadas por la ciencia y te hacen sentir en familia. ¡Espero esta página te ayude a entender e interpretar el gran mundo de la ciencia!
+
+  - ¡Hola! Mi nombre es Lesslie pero me llaman “Less”. Soy estudiante de la Lic. de Químico Farmacéutico Biólogo de la Universidad Autónoma de Yucatán. Decidí estudiar esta bellísima carrera por identificarme como amante de la ciencia. Quiero que el mundo sepa lo importante que es la ciencia para la vida. Mi experiencia al poder tener la oportunidad de estar en Clubes de Ciencia en México ha sido incleíble, conoces a gente igual de apasionadas por la ciencia y te hacen sentir en familia. ¡Espero esta página te ayude a entender e interpretar el gran mundo de la ciencia!
+  
+  
 ---
 
 ## <img src="https://img.icons8.com/plasticine/2x/books.png" alt="book" width="50"/> Referencias
