@@ -130,7 +130,7 @@ TMPRSS2 es una serin proteasa transmembranal tipo 2, tiene amplia expresión en 
    
    <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/Inhib%20spike.jpeg?raw=true" alt="Inhibidor" width="600"/>
    
-   Se busca como terapéutica antiviral abordar la proteína spike del coronavirus ya que es la encargada de unirse a la ACE2 para posteriormente con otras pasos pueda ingresar a la célula huésped, la idea es atacar el dominio S1, en este se encuentra el RBD (dominio de unión al receptor) el cual será el encargado de que se una a ACE2 del humano, si se bloquea el dominio se evita esa unión con el receptor, el inconveniente encontrado es que S1 posee cambios o mutaciones lo cual causaría que el fármaco solo funcione por cierto tiempo y el virus evada la respuesta inmune. RBD también se está usando para la producción de vacunas que inducirá respuesta de células T y anticuerpos neutralizantes altamente potentes.
+   Se busca como terapéutica antiviral abordar la proteína spike del coronavirus ya que es la encargada de unirse a la ACE2 para posteriormente con otros pasos pueda ingresar a la célula huésped, **la idea es atacar el dominio S1, en este se encuentra el RBD (dominio de unión al receptor) el cual será el encargado de que se una a ACE2 del humano, si se bloquea el dominio se evita esa unión con el receptor,** el inconveniente encontrado es que S1 posee cambios o mutaciones lo cual causaría que el fármaco solo funcione por cierto tiempo y el virus evada la respuesta inmune. RBD también se está usando para la producción de vacunas que inducirá respuesta de células T y anticuerpos neutralizantes altamente potentes.
    Hay otra alternativa, atacar la subunidad S2 de spike, esta es más conservada y por lo tanto es más estable que S1 lo que ayuda a que la terapia funcione, en este caso se busca que una vez ocurrida la unión a ACE2 inhibir que se fusione con la membrana y con ello impedir la entrada a la célula. 
 
 ### PLPro (Proteasa tipo Papaína)
@@ -155,7 +155,7 @@ TMPRSS2 es una serin proteasa transmembranal tipo 2, tiene amplia expresión en 
    4. Naranja:  dominios de tipo ubiquitina N-terminal (Ubl)
 
 
-## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> ¿Por qué estas proteinas y no otras?
+## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> ¿Por qué estas proteínas y no otras?
 
 - Se cuentan con varias opciones para desarrollar un tratamiento, las cuales son:
    - Moléculas unidas al virus.
@@ -164,7 +164,7 @@ TMPRSS2 es una serin proteasa transmembranal tipo 2, tiene amplia expresión en 
    - Inhibición de las helicasas y el complejo de replicación del virus.
 - Para lograr desarrollar un tratamiento, es elemental conocer cuales son los puntos débiles del agente, cuales convienen más, ya sea por tener como consecuencia un efecto prolongado o definitivo. Sin embargo, lo más importante es que este tratamiento no resulte dañino para quien lo reciba, ya que podrían arriesgarse e incluso perderse más funciones de las que se preservarían contrarrestando la enfermedad.  
 Existen proteínas humanas que podrían ser inhibidas para evitar tener células susceptibles a la infección, por ejemplo, **actuar sobre el receptor ECA 2** tendría un efecto directo en El Sistema Renina-Angiotensina, el cual **está encargado de regular la presión arterial mediante el control de electrolitos en la sangre**, incluso, hay fármacos Antihipertensivos que tienen como objetivo directo estos receptores. **El resultado entonces, podría ser una disminución de la tensión arterial sistémica, y a menor presión, menor perfusión de los órganos.**
-- Otro ejemplo de una proteína humana que puede ser blanco de terapéuticos es **TMPRSS2**, anteriormente se describieron sus funciones realizando una segunda fase del procesamiento de la glucoproteína Spike para permitir el ingreso del virus a la célula hospedera. Curiosamente, se desconocen aún las funciones fisiológicas de ella, interferir en las funciones de esta proteína puede tener como consecuencia eventos completamente inesperados, que podrían ser fatales
+- Otro ejemplo de una proteína humana que puede ser blanco de terapéuticos es **TMPRSS2**, anteriormente se describieron sus funciones realizando una segunda fase del procesamiento de la glucoproteína Spike para permitir el ingreso del virus a la célula hospedera. Curiosamente, se desconocen aún las funciones fisiológicas de ella, interferir en las funciones de esta proteína puede tener como consecuencia eventos completamente inesperados, que podrían ser fatales.
 - Dentro de los diferentes tratamientos, seleccionamos como blanco  las **molécuals inhibidoras de la Nsp, y de la entrada del virus a la célula hospedera**, es decir, una proteína no estructural, la PLpro y una estructural, la glucoproteína de envoltura *Spike*; con dos blancos con funciones distintas para el virus, se logra afectar tanto su maquinaria de replicación, como la facilidad con la que logra ingresar a la célula hospedera, esto haría mucho más difícil la infección, y en caso de que esta lograra suceder, la replicación estaría inmediatamente afectada.
 
 
@@ -179,26 +179,37 @@ Existen proteínas humanas que podrían ser inhibidas para evitar tener células
 
 #### Blanco terapéutico
    - Molécula o proteína con una forma específica sobre la que el fármaco actúa.
+   
 #### Endotelio
    - Monocapa que separa los tejidos de la sangre. Es una de las capas de los vasos, interactúa directamente con la sangre.
+   
 #### Maquinaria celular
    - Conjunto de herramientas (enzimas fundamentalmente) que la célula utiliza en todos sus procesos celulares, desde la división celular hasta la apoptosis o muerte celular, pasando por todos los procesos metabólicos.
+   
 #### Neumocitos
    - Son denominadas también como células alveolares, los neumocitos corresponden a las células que tapizan las paredes de los alveolos pulmonares.
+   
 #### Papaína
    - Enzima proteolítica que cataliza la separación de las proteínas por hidrólisis.
+   
 #### Proteasa
    - Las proteasas o peptidasas son enzimas que rompen enlaces peptídicos de las proteínas. Gracias a estas proteínas es posible que el virus siga con su transcripción del ARN, transducción y síntesis de proteínas víricas. Dando así como resultado a procesos y modificaciones de proteínas para su replicación y finalmente puedan infectar al hospedero. 
+   
 #### Replicación
    - Proceso en el que el material genético de una célula se duplica, obteniendo dos copias exactas de un fragmento o bien, toda la información de la célula.
+   
 #### RNA Polimerasa
    - La ARN polimerasa es un complejo enzimático que se encarga de mediar la polimerización de una molécula de ARN, partiendo de una secuencia de ADN que usa como molde, es decir, del resultado de la replicación, una de estas cadenas de DNA necesita pasar a RNA, y lo logra gracias a esta enzima.
+   
 #### Secuencia conservada
    - Secuencia de aminoácidos en un polipéptido o en nucleótidos de material genético que no ha cambiado o que ha cambiado muy poco durante un período evolutivo.
+   
 #### Sistema Renina-Angiotensina-Aldosterona
    - Se trata de un sistema presente en mamíferos, que a través de la regulación de secreción de hormonas, controla la presión arterial sistémica, logra modificar la excreción o retención de electrolitos sanguíneos para mantener la presión osmótica en los vasos.
+   
 #### Tropismo
    - En la virología, habla de la afinidad que tienen los virus por una u otra célula, sus receptores específicos.
+   
 #### Zoonosis
    - Enfermedades infecciones transmisibles desde animales vertebrados y el ser humano.
 
