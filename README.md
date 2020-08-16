@@ -243,7 +243,9 @@ Me gusta mucho salir a caminar y observar paisajes, también me gusta la cocina,
 
 #### Lesslie García, Yucatán.
    - ¡Hola! Mi nombre es Lesslie pero me llaman “Less”. Soy estudiante de la Lic. de Químico Farmacéutico Biólogo de la Universidad Autónoma de Yucatán. Decidí estudiar esta bellísima carrera por identificarme como amante de la ciencia. ¡Espero esta página te ayude a entender e interpretar el gran mundo de la ciencia!
+
 ---
+
 ## <img src="https://img.icons8.com/plasticine/2x/books.png" alt="book" width="50"/> Referencias
 
    1. Hoffman, M., Klein-Weber, H., y Pöhlmann, S. 2020. A Multibasic Cleavage Site in the Spike Protein of SARS-CoV-2 Is Essential for Infection of Human Lung Cells. Molecular Cell 78, 779-784
