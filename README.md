@@ -4,7 +4,7 @@
 
 ---
 
-## <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/globe-512.png" alt="drawing" width="50"/> COVID-19, ¿Porqué es tan importante el tratamiento?
+## <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/globe-512.png" alt="drawing" width="50"/> COVID-19, ¿Por qué es tan importante el tratamiento?
 
 - A finales de 2019, un nuevo coronavirus fue identificado caomo la causa de un brote de neumonía en Wuhan, una ciudad en la provincia de Hubei en China. Se transmitió rápidamente, llevando a la Organización Mundial de la Salud (OMS) a declarar un estado de **emergencia** a finales de Enero 2020, y definirlo como una **pandemia** en Marzo 2020. El virus causante de la enfermedad COVID-19 es designado en inglés ***Severe Acute Respiratory Syndrome Coronavirus 2*** (SARS-CoV-2).
 
@@ -123,7 +123,7 @@ TMPRSS2 es una serin proteasa transmembranal tipo 2, tiene amplia expresión en 
 
 <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/SPIKE%20residuos.jpeg?raw=true" alt="Residuos" width="500"/>
 
-#### ¿Porqué fijarnos en *Spike*?
+#### ¿Por qué fijarnos en *Spike*?
    1. Estudios con microscopía crioelectrónica de la proteína spike (s) y su interacción con el receptor celular ACE2 han demostrado que el SARS-CoV-2 interactúa directamente con la enzima convertidora de angiotensina 2 (ACE2) para ingresar a las células diana, por lo que la unión al receptor ACE2 es un paso inicial crítico para el ciclo viral.
    2. Está expuesta a la superficie y media la entrada en las células huésped, es el objetivo principal de los anticuerpos neutralizantes (Abs) tras la infección.
    3. Las superficies con una densidad inusualmente alta de glicanos, como es el caso de spike, pueden permitir el reconocimiento inmunológico. Comprender la glicosilación de picos virales recombinantes puede revelar características fundamentales de la biología viral y guiar las estrategias de diseño de vacunas. 
@@ -155,7 +155,7 @@ TMPRSS2 es una serin proteasa transmembranal tipo 2, tiene amplia expresión en 
    4. Naranja:  dominios de tipo ubiquitina N-terminal (Ubl)
 
 
-## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> ¿Porqué estas proteinas y no otras?
+## <img src="https://images.vexels.com/media/users/3/152864/isolated/preview/2e095de08301a57890aad6898ad8ba4c-yellow-circle-question-mark-icon-by-vexels.png" alt="Pill" width="50"/> ¿Por qué estas proteinas y no otras?
 
 - Se cuentan con varias opciones para desarrollar un tratamiento, las cuales son:
    - Moléculas unidas al virus.
