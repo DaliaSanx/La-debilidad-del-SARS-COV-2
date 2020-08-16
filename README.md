@@ -140,13 +140,13 @@ TMPRSS2 es una serin proteasa transmembranal tipo 2, tiene amplia expresión en 
    2. Revierte eventos de ISGilación en la célula hospedera, por lo que **también es responsable de la respuesta inmune innata**, esto lo logra haciendo cortes en proteínas del hospedero humano, a la ubiquitina y la ISG15. Si hiciéramos una analogía, podríamos decir que el cuerpo humano es como una escuela, en la que solamente pueden entrar y permanecer quienes tienen una identificación visible, cuando una célula es infectada por un virus, hay mecanismos que "le quitarían la identificación" a las células, y permiten encender una respuesta que tiene como fin "sacar a las células de la escuela". Este es el proceso que se ve bloqueado por la célula, no hay un llamado a otras células del sistema inmune para encender la respuesta antiviral.
    - Esta enzima es esencial para procesar las poliproteínas que se traducen del ARN viral. **Inhibir la actividad de esta enzima bloquearía la replicación viral.**
 **La unión de drogas podría inhibir la producción de otras proteínas virales importantes para su replicación.**
- <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/PapainaBiorender.jpeg?raw=true" alt="SPIKE" width="600"/> 
+ <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-CoV-2/blob/master/Rutas%20terapeuticas/PapainaBiorender.jpeg?raw=true" alt="Papaina" width="600"/> 
 
 #### ¿Por qué es tan importante esta proteína?
 
 - Al ser la encargada de liberar las proteínas necesarias para el proceso de replicación viral, inhibirla sería como tal evitar una multiplicación del virus y por consiguiente su liberación hacia el torrente sanguíneo e incluso, disminuir su capacidad de infección. Cuando esta proteína deja de bloquear la cascada de señalización en la que las células pretenden liberar citocinas que se encargan de llamar a otras células, puede comenzar de verdad una cadena de señalización intra y extracelular para atacar a las células infectadas.
   
-   <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="400"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="200"/>
+   <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/papaina.png?raw=true" alt="SPIKE" width="400"/> <img src="https://github.com/DaliaSanx/La-debilidad-del-SARS-COV-2/blob/master/Rutas%20terapeuticas/table.png?raw=true" alt="table" width="300"/>
   
   - Se dice que esta proteína tiene forma de mano, por lo que en el esquema está señalizado de la siguiente manera:
    1. Rojo: Dedos
